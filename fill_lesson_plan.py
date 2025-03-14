@@ -9,7 +9,7 @@ import utils.generate_text
 
 #Use OpenAI to fill in the lesson plan 
 
-lessonCode = "PHY_10_02"
+lessonCode = "PHY_10_01"
 subject = defines.SUBJECTS.PHYSICS    
 level = defines.LEVELS.GCSE
 yearGroup = defines.YEAR_GROUPS_GCSE.YEAR_10
@@ -23,10 +23,10 @@ improve = True
 if __name__  == "__main__":
     #Iterate through the lesson plans folder for the lesson with the matching lesson code
     base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), defines.LESSON_PLANS_DIR)
-    lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, f"empty_plan_{lessonCode}.json")
-    filled_lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, f"filled_plan_{lessonCode}.json")
-    critique_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, f"critique_{lessonCode}.txt")
-    final_lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, f"final_plan_{lessonCode}.json")
+    lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, defines.DRAFTS, f"empty_plan_{lessonCode}.json")
+    filled_lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, defines.DRAFTS, f"filled_plan_{lessonCode}.json")
+    critique_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name, defines.DRAFTS, f"critique_{lessonCode}.txt")
+    final_lesson_plan_file = os.path.join(base_dir, subject.name, level.name, yearGroup.name,defines.FINAL, f"final_plan_{lessonCode}.json")
     if os.path.exists(lesson_plan_file):
         print(f"Lesson plan file exists: {lesson_plan_file}")
 

@@ -1,0 +1,65 @@
+{
+    "lessonTitle": "Energy Stores & Systems",
+    "lessonCode": "PHY_10_01",
+    "subject": "PHYSICS",
+    "topic": "",
+    "level": "GCSE",
+    "yearGroup": "YEAR_10",
+    "term": "",
+    "duration": "60 minutes",
+    "date": "2023-10-10",
+    "summary": "This lesson will introduce students to different types of energy stores, energy transfer mechanisms, and the concepts of open and closed systems, along with the meaning of work done.",
+    "contentItems": [
+        "The different types of energy store.",
+        "The different ways energy can be transferred.",
+        "The concept of 'open' and 'closed' systems.",
+        "What the term 'work done' means."
+    ],
+    "learningObjectives": [
+        "Understand and identify different types of energy stores.",
+        "Explain how energy can be transferred between systems.",
+        "Distinguish between open and closed systems.",
+        "Define and apply the concept of work done."
+    ],
+    "materials": [
+        "Whiteboard and markers",
+        "Projector",
+        "PowerPoint presentation",
+        "Energy store cards",
+        "Worksheet on energy transfers"
+    ],
+    "lessonStructure": {
+        "starter": {
+            "duration": "10 minutes",
+            "activity": "Quick quiz on energy types using flashcards."
+        },
+        "mainActivities": [
+            {
+                "duration": "25 minutes",
+                "activity": "Group work: Students create a mind map showing different energy stores and how they transfer energy."
+            },
+            {
+                "duration": "15 minutes",
+                "activity": "Class discussion on open vs closed systems with examples from everyday life."
+            },
+            {
+                "duration": "10 minutes",
+                "activity": "Interactive demonstration of 'work done' using weights and a pulley system."
+            }
+        ],
+        "plenary": {
+            "duration": "10 minutes",
+            "activity": "Recap key concepts with a Q&A session and summarize the main points of the lesson."
+        }
+    },
+    "assessmentMethods": [
+        "Observation during group work",
+        "Exit ticket: Students write one thing they learned and one question they still have.",
+        "Worksheet completion on energy transfers."
+    ],
+    "homework": {
+        "task": "Complete the worksheet on energy stores and systems, including definitions and examples.",
+        "dueDate": "2023-10-17"
+    },
+    "teacherNotes": "Ensure that all materials are prepared in advance. Check the projector and presentation for any technical issues before the lesson."
+}

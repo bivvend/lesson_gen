@@ -10,6 +10,14 @@ SPECIFICATION_TEXT_DIR = "resources\\specifications\\output"
 COURSE_STRUCTURE_DIR = "course_structure"
 COURSE_STRUCTURE_FILE = "course_structure.json"
 LESSON_PLANS_DIR = "lesson_plans"
+DRAFTS = "DRAFTS"
+FINAL = "FINAL"
+
+SLIDES_DIR = "slides"
+SLIDES_SUB_DIR_TEX = "TEX"
+SLIDES_SUB_DIR_IMAGES = "IMAGES"
+SLIDES_SUB_DIR_VIDEO = "VIDEO"
+SLIDES_SUB_DIR_PDF = "PDF"
 
 SUBJECTS = enum.Enum("SUBJECTS", [("PHYSICS",1)])
 LEVELS = enum.Enum("LEVELS", [("LOWER_SCHOOL",1),("GCSE",2), ("A_LEVEL",3)])

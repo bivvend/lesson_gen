@@ -20,14 +20,14 @@ if __name__ == "__main__":
             if level.name == "LOWER_SCHOOL":
                 for year_group in defines.YEAR_GROUPS_LOWER:
                     #Load the course structure file
-                    course_structure_file = os.path.join(base_dir_course, subject.name, level.name, year_group.name, "course_structure.json")
+                    course_structure_file = os.path.join(base_dir_course, subject.name, level.name, year_group.name, defines.COURSE_STRUCTURE_FILE)
                     print(f"Loading course structure file: {course_structure_file}")
                     with open(course_structure_file, "r") as f:
                         course_structure = json.load(f)
                         #Iterate over lessons
                         for lesson in course_structure["lessons"]:
                             #Create the lesson plan file
-                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, f"plan_{lesson["lessonCode"]}.json")
+                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, defines.DRAFTS, f"empty_plan_{lesson["lessonCode"]}.json")
                             if not os.path.exists(lesson_plan_file):
                                 print(f"Creating lesson plan file: {lesson_plan_file}")
                                 if len(lesson["lessonCode"]) > 0:
@@ -55,7 +55,7 @@ if __name__ == "__main__":
                         #Iterate over lessons
                         for lesson in course_structure["lessons"]:
                             #Create the lesson plan file
-                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, f"empty_plan_{lesson["lessonCode"]}.json")
+                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, defines.DRAFTS, f"empty_plan_{lesson["lessonCode"]}.json")
                             if not os.path.exists(lesson_plan_file):
                                 print(f"Creating lesson plan file: {lesson_plan_file}")
                                 if len(lesson["lessonCode"]) > 0:
@@ -83,7 +83,7 @@ if __name__ == "__main__":
                         #Iterate over lessons
                         for lesson in course_structure["lessons"]:
                             #Create the lesson plan file
-                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, f"plan_{lesson["lessonCode"]}.json")
+                            lesson_plan_file = os.path.join(base_dir_plans, subject.name, level.name, year_group.name, defines.DRAFTS, f"empty_plan_{lesson["lessonCode"]}.json")
                             if not os.path.exists(lesson_plan_file):
                                 print(f"Creating lesson plan file: {lesson_plan_file}")
                                 if len(lesson["lessonCode"]) > 0:

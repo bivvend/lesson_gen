@@ -71,21 +71,27 @@ def create_directories(base_dir):
             if level.name == "LOWER_SCHOOL":
                 for year_group in YEAR_GROUPS_LOWER:
                     # Create directory path
-                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name, "FINAL")
                     os.makedirs(dir_path, exist_ok=True)
+                    dir_path_inter = os.path.join(base_dir, subject.name, level.name, year_group.name, "DRAFTS")
+                    os.makedirs(dir_path_inter, exist_ok=True)
                     print(f"Created directory: {dir_path}")                      
             # Handle GCSE level
             elif level.name == "GCSE":
                 for year_group in YEAR_GROUPS_GCSE:
-                    # Create directory path
-                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                   # Create directory path
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name, "FINAL")
                     os.makedirs(dir_path, exist_ok=True)
-                    print(f"Created directory: {dir_path}")
+                    dir_path_inter = os.path.join(base_dir, subject.name, level.name, year_group.name, "DRAFTS")
+                    os.makedirs(dir_path_inter, exist_ok=True)
+                    print(f"Created directory: {dir_path}")  
             
             # Handle A_LEVEL level
             elif level.name == "A_LEVEL":
                 for year_group in YEAR_GROUPS_A_LEVEL:
                     # Create directory path
-                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name, "FINAL")
                     os.makedirs(dir_path, exist_ok=True)
-                    print(f"Created directory: {dir_path}")
+                    dir_path_inter = os.path.join(base_dir, subject.name, level.name, year_group.name, "DRAFTS")
+                    os.makedirs(dir_path_inter, exist_ok=True)
+                    print(f"Created directory: {dir_path}")  
