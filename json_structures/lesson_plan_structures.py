@@ -2,7 +2,8 @@
 lesson_plan_structure ={
   "lessonTitle": "",
   "lessonCode": "",
-  "subject": "Physics",
+  "subject": "",
+  "topic": "",
   "level": "",
   "yearGroup": "",
   "term": "",
@@ -10,14 +11,9 @@ lesson_plan_structure ={
   "date": "",
   "summary": "",
   "learningObjectives": [
-    "",
-    "",
     ""
   ],
   "materials": [
-    "",
-    "",
-    "",
     ""
   ],
   "lessonStructure": {
@@ -30,10 +26,6 @@ lesson_plan_structure ={
         "duration": "",
         "activity": ""
       },
-      {
-        "duration": "",
-        "activity": ""
-      }
     ],
     "plenary": {
       "duration": "",
@@ -42,8 +34,6 @@ lesson_plan_structure ={
   },
   "assessmentMethods": [
     "",
-    "",
-    ""
   ],
   "homework": {
     "task": "",
