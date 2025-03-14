@@ -1,0 +1,61 @@
+{
+    "lessonTitle": "Energy Transfer Examples",
+    "lessonCode": "PHY_10_02",
+    "subject": "PHYSICS",
+    "topic": "Energy Transfer",
+    "level": "GCSE",
+    "yearGroup": "YEAR_10",
+    "term": "Autumn",
+    "duration": "60 minutes",
+    "date": "2023-10-10",
+    "summary": "This lesson will explore the various methods of energy transfer including mechanical, electrical, thermal, and radiation. Students will learn to identify examples of energy transfers in everyday life and understand the principles behind them.",
+    "contentItems": [
+        "How energy is transferred (mechanically, electrically, by heating, by radiation).",
+        "Examples of energy transfers."
+    ],
+    "learningObjectives": [
+        "Understand the different methods of energy transfer.",
+        "Identify real-life examples of energy transfers.",
+        "Explain the principles behind energy transfers."
+    ],
+    "materials": [
+        "Whiteboard and markers",
+        "PowerPoint presentation on energy transfer",
+        "Handouts with examples of energy transfers",
+        "Videos demonstrating energy transfers"
+    ],
+    "lessonStructure": {
+        "starter": {
+            "duration": "10 minutes",
+            "activity": "Quick quiz on types of energy and their definitions."
+        },
+        "mainActivities": [
+            {
+                "duration": "20 minutes",
+                "activity": "Group activity where students categorize different energy transfer examples."
+            },
+            {
+                "duration": "15 minutes",
+                "activity": "Class discussion on energy transfer in various devices (e.g., light bulbs, engines)."
+            },
+            {
+                "duration": "10 minutes",
+                "activity": "Watch a video demonstrating energy transfers in nature (e.g., photosynthesis, heating in the sun)."
+            }
+        ],
+        "plenary": {
+            "duration": "5 minutes",
+            "activity": "Recap the main types of energy transfer and ask students to share one new thing they learned."
+        }
+    },
+    "assessmentMethods": [
+        "Observation during group activities",
+        "Exit ticket summarizing one type of energy transfer and its example",
+        "Quick quiz at the end of the lesson"
+    ],
+    "homework": {
+        "task": "Write a short paragraph describing an energy transfer process they observed during the week.",
+        "dueDate": "2023-10-17"
+    },
+    "teacherNotes": "Ensure all materials are prepared in advance. Be ready to facilitate discussions and encourage students to think critically about energy transfers."
+}

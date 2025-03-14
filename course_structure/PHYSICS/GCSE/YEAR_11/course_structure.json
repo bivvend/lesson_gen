@@ -7,6 +7,9 @@
             "lessonTitle": "",
             "lessonCode": "",
             "topic": "",
+            "contentItems": [
+                ""
+            ],
             "term": ""
         }
     ]

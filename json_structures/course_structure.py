@@ -7,6 +7,7 @@ course_structure = {
             "lessonTitle": "",
             "lessonCode": "",
             "topic": "",
+            "contentItems": [""],
             "term": "",
         }
     ] 

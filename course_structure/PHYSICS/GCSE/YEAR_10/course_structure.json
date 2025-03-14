@@ -1,0 +1,39 @@
+{
+    "subject": "PHYSICS",
+    "level": "GCSE",
+    "yearGroup": "YEAR_10",
+    "lessons": [
+        {
+            "lessonTitle": "Energy Stores & Systems",
+            "lessonCode": "PHY_10_01",
+            "topic": "Energy",
+            "contentItems": [
+                "The different types of energy store.",
+                "The different ways energy can be transferred.",
+                "The concept of 'open' and 'closed' systems.",
+                "What the term 'work done' means."
+            ],
+            "term": "Autumn"
+        },
+        {
+            "lessonTitle": "Energy Transfer Examples",
+            "lessonCode": "PHY_10_02",
+            "topic": "Energy",
+            "contentItems": [
+                "How energy is transferred (mechanically, electrically, by heating, by radiation).",
+                "Examples of energy transfers."
+            ],
+            "term": "Autumn"
+        },
+        {
+            "lessonTitle": "Kinetic Energy",
+            "lessonCode": "PHY_10_03",
+            "topic": "Energy",
+            "contentItems": [
+                "What 'kinetic energy' is.",
+                "How to calculate kinetic energy."
+            ],
+            "term": "Autumn"
+        }
+    ]
+}

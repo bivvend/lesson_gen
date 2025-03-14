@@ -1,0 +1,60 @@
+{
+    "lessonTitle": "Energy Stores & Systems",
+    "lessonCode": "PHY_10_01",
+    "subject": "PHYSICS",
+    "topic": "Energy Stores & Systems",
+    "level": "GCSE",
+    "yearGroup": "YEAR_10",
+    "term": "Autumn",
+    "duration": "1 hour",
+    "date": "2023-11-01",
+    "summary": "This lesson covers the different energy stores and how energy is transferred within systems, introducing important concepts in physics.",
+    "contentItems": [
+        "The different types of energy store.",
+        "The different ways energy can be transferred.",
+        "The concept of 'open' and 'closed' systems.",
+        "What the term 'work done' means."
+    ],
+    "learningObjectives": [
+        "Identify and describe different types of energy stores.",
+        "Explain how energy is transferred between stores.",
+        "Differentiate between open and closed systems.",
+        "Define work done and apply the concept to real-world scenarios."
+    ],
+    "materials": [
+        "Whiteboard and markers",
+        "Energy stores and systems worksheets",
+        "Videos demonstrating energy transfer",
+        "Post-it notes for group activities",
+        "Access to physics textbooks"
+    ],
+    "lessonStructure": {
+        "starter": {
+            "duration": "10 minutes",
+            "activity": "Quick quiz on energy types (students write answers on post-it notes and stick them on the board)."
+        },
+        "mainActivities": [
+            {
+                "duration": "20 minutes",
+                "activity": "Group activity to categorize different types of energy stores and discuss examples in real life."
+            },
+            {
+                "duration": "20 minutes",
+                "activity": "Interactive demonstration of energy transfer using a simple system (e.g., pendulum or spring)."
+            }
+        ],
+        "plenary": {
+            "duration": "10 minutes",
+            "activity": "Class discussion to recap the key points and address any questions. Students summarize their learning on whiteboards."
+        }
+    },
+    "assessmentMethods": [
+        "Observation of group discussions and activities.",
+        "Exit ticket where students write down one thing they learned and one question they still have."
+    ],
+    "homework": {
+        "task": "Complete the worksheet on energy transfers and systems, including definitions and examples.",
+        "dueDate": "2023-11-08"
+    },
+    "teacherNotes": "Ensure to check understanding during main activities and provide support to groups as needed."
+}

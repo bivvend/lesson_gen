@@ -5,7 +5,7 @@ import json
 
 import json_structures.course_structure
 
-def create_directories_and_empty_structure(base_dir):
+def create_directories_and_empty_structures_for_course(base_dir):
     # Iterate over each subject
     for subject in SUBJECTS:
         # Iterate over each level
@@ -60,3 +60,32 @@ def create_directories_and_empty_structure(base_dir):
                             empty_course_structure["level"] = level.name    
                             empty_course_structure["yearGroup"] = year_group.name
                             f.write(json.dumps(empty_course_structure, indent=4))
+
+
+def create_directories(base_dir):
+    # Iterate over each subject
+    for subject in SUBJECTS:
+        # Iterate over each level
+        for level in LEVELS:
+            # Handle LOWER_SCHOOL level
+            if level.name == "LOWER_SCHOOL":
+                for year_group in YEAR_GROUPS_LOWER:
+                    # Create directory path
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                    os.makedirs(dir_path, exist_ok=True)
+                    print(f"Created directory: {dir_path}")                      
+            # Handle GCSE level
+            elif level.name == "GCSE":
+                for year_group in YEAR_GROUPS_GCSE:
+                    # Create directory path
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                    os.makedirs(dir_path, exist_ok=True)
+                    print(f"Created directory: {dir_path}")
+            
+            # Handle A_LEVEL level
+            elif level.name == "A_LEVEL":
+                for year_group in YEAR_GROUPS_A_LEVEL:
+                    # Create directory path
+                    dir_path = os.path.join(base_dir, subject.name, level.name, year_group.name)
+                    os.makedirs(dir_path, exist_ok=True)
+                    print(f"Created directory: {dir_path}")
