@@ -1,0 +1,2872 @@
+AS AND A-
+LEVEL
+PHYSICS
+Specification
+For teaching from onwards
+For AS and A-level exams in 2016 onwards
+Version 1.3 1 June 2017
+Contents
+1 Introduction 5
+1.1 Why choose AQA for AS and A-level Physics 5
+1.2 Support and resources to help you teach 6
+2 Specification at a glance 8
+3 Subject content 11
+3.1 Measurements and their errors 11
+3.2 Particles and radiation 12
+3.3 Waves 18
+3.4 Mechanics and materials 21
+3.5 Electricity 27
+3.6 Further mechanics and thermal physics (A-level only) 29
+3.7 Fields and their consequences (A-level only) 33
+3.8 Nuclear physics (A-level only) 41
+3.9 Astrophysics (A-level only) 45
+3.10 Medical physics (A-level only) 49
+3.11 Engineering physics (A-level only) 54
+3.12 Turning points in physics (A-level only) 59
+3.13 Electronics (A-level only) 63
+4 Scheme of assessment 69
+4.1 Aims 69
+4.2 Assessment objectives 70
+4.3 Assessment weightings 71
+5 General administration 73
+5.1 Entries and codes 73
+5.2 Overlaps with other qualifications 73
+5.3 Awarding grades and reporting results 74
+5.4 Re-sits and shelf life 74
+5.5 Previous learning and prerequisites 74
+5.6 Access to assessment: diversity and inclusion 74
+5.7 Working with AQA for the first time 75
+5.8 Private candidates 75
+6 Mathematical requirements and
+exemplifications 77
+6.1 Arithmetic and numerical computation 77
+6.2 Handling data 78
+6.3 Algebra 79AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   36.4 Graphs 79
+6.5 Geometry and trigonometry 81
+7 AS practical assessment 83
+7.1 Use of apparatus and techniques 83
+7.2 Required practical activities 84
+7.3 Practical skills to be assessed in written papers 84
+8 A-level practical assessment 87
+8.1 Use of apparatus and techniques 87
+8.2 Required practical activities 88
+8.3 Practical skills to be assessed in written papers 89
+8.4 Practical skills to be assessed via endorsement 90
+Are you using the latest version of this specification?
+• You will always find the most up-to-date version of this specification on our website at 
+• We will write to you if there are significant changes to the specification.
+4   Visit for the most up-to-date specification,  resources, support and administration1 Introduction
+1.1 Why choose AQA for AS and A-level  Physics
+Relevant in the classroom and the real world
+We involved over a thousand teachers in developing these specifications, to ensure that the
+subject content is relevant to real world experiences and is interesting to teach and learn. We’ve
+also presented it in a straightforward way, giving you the freedom to teach in the way that works for
+your students.
+These Physics specifications are a stepping stone to future study, which is why we also consulted
+universities, to ensure these specifications allow students to develop the skills that they want to
+see.
+This approach has led to specifications that will support you to inspire students, nurture a passion
+for Physics and lay the groundwork for further study in science or engineering.
+The way you teach – your choice
+Our specifications have been written in a context-free style. This means that you can select the
+contexts and applications that you feel bring the subject alive. We have also produced a range of
+excellent teaching resources that you can use alongside your own material.
+The AS and A-level courses allow for a choice of starting points. You can choose a familiar starting
+point for students, such as mechanics, or begin with fresh topics to create interest and a new
+dimension to their knowledge, such as particle physics.
+We’ve provided five optional topics as part of the full A-level course so students can focus on their
+areas of interest:
+• Astrophysics
+• Medical physics
+• Turning points in physics
+• Engineering physics (re-branded Applied physics)
+• Electronics.
+Practical at the heart of science
+Like you, we believe that Physics is fundamentally an experimental subject. These specifications
+provide numerous opportunities to use practical experiences to link theory to reality, and equip
+students with the essential practical skills they need.
+Teach AS and A-level together
+We’ve ensured that the AS and A-level are fully co-teachable. The AS exams include similar
+questions to those in the A-level, with less difficulty.
+We’ve created our A-level content with our GCSE in mind to make sure that there is a seamless
+progression between qualifications. We’ve also followed ASE guidance on use of scientific
+terminology across our science subjects.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   5Assessment success
+We’ve tested our specimen question papers with students, making sure they’re interesting,
+straightforward and clear and hold no hidden surprises. To ensure that your students are rewarded
+for the physics skills and knowledge they’ve developed, our exams include:
+• specified content tested in each of the first two papers at A-level to help students prepare for
+their exams
+• a variety of assessment styles within each paper so students can confidently engage with the
+questions
+• multiple choice questions are included to allow for a wide breadth of Physics from the
+specifications to be tested
+With us, your students will get the results they deserve, from the exam board you trust.
+You can find out about all our science qualifications at aqa.org.uk/science .
+1.2 Support and resources to help you teach
+We know that support and resources are vital for your teaching and that you have limited time to
+find or develop good quality materials. So we’ve worked with experienced teachers to provide you
+with a range of resources that will help you confidently plan, teach and prepare for exams.
+Teaching resources
+We have too many Physics resources to list here so visit aqa.org.uk/7408  to see them all. They
+include:
+• additional practice papers to help students prepare for exams
+• guidance on how to plan both the AS and A-level courses with supporting schemes of work
+for co-teaching
+• several AQA-approved student textbooks reviewed by experienced senior examiners
+• guidance on maths skills requirements with additional support via Exampro
+• resources to support key topics (including the optional topics), with detailed lesson plans
+written by experienced teachers
+• training courses to help you deliver AQA Physics qualifications
+• subject expertise courses for all teachers, from newly-qualified teachers who are just getting
+started to experienced teachers looking for fresh inspiration.
+Preparing for exams
+Visit aqa.org.uk/7408  for everything you need to prepare for our exams, including:
+• past papers, mark schemes and examiners’ reports
+• sample papers and mark schemes
+• Exampro: a searchable bank of past AQA exam questions
+• exemplar student answers with examiner commentaries.
+Analyse your students' results with Enhanced Results Analysis (ERA)
+Find out which questions were the most challenging, how the results compare to previous years
+and where your students need to improve. ERA, our free online results analysis tool, will help you
+see where to focus your teaching. Register at aqa.org.uk/era
+6   Visit for the most up-to-date specification,  resources, support and administrationFor information about results, including maintaining standards over time, grade boundaries and our
+post-results services, visit aqa.org.uk/results
+Keep your skills up to date with professional development
+Wherever you are in your career, there’s always something new to learn. As well as subject-
+specific training, we offer a range of courses to help boost your skills.
+• Improve your teaching skills in areas including differentiation, teaching literacy and meeting
+Ofsted requirements.
+• Prepare for a new role with our leadership and management courses.
+You can attend a course at venues around the country, in your school or online – whatever suits
+your needs and availability. Find out more at coursesandevents.aqa.org.uk
+Get help and support
+Visit our website for information, guidance, support and resources at aqa.org.uk/7201
+You can talk directly to the Physics subject team:
+E: alevelscience@aqa.org.uk
+T: 01483 477 756AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   72 Specification  at a glance
+These qualifications are linear. Linear means that students will sit all the AS exams at the end of
+their AS course and all the A-level exams at the end of their A-level course.
+Subject content
+Core content
+1 Measurements and their errors  (page 11)
+2 Particles and radiation (page 12)
+3 Waves  (page 18)
+4 Mechanics and materials  (page 21)
+5 Electricity  (page 27)
+6 Further mechanics and thermal physics (A-level only)  (page 29)
+7 Fields and their consequences (A-level only)  (page 33)
+8 Nuclear physics (A-level only)  (page 41)
+Options
+9 Astrophysics (A-level only)  (page 45)
+10 Medical physics (A-level only)  (page 49)
+11 Engineering physics (A-level only)  (page 54)
+12 Turning points in physics (A-level only)  (page 59)
+13 Electronics (A-level only)  (page 63)
+AS
+Assessments
+Paper 1
+What's assessed
+Sections 1 - 5
+Assessed
+• written exam: 1 hour 30 minutes
+• 70 marks
+• 50% of AS
+Questions
+70 marks of short and long answer questions split by topic.
+8   Visit for the most up-to-date specification,  resources, support and administrationPaper 2
+What's assessed
+Sections 1 - 5
+Assessed
+• written exam: 1 hour 30 minutes
+• 70 marks
+• 50% of AS
+Questions
+Section A: 20 marks of short and long answer questions on practical skills and data analysis
+Section B: 20 marks of short and long answer questions from across all areas of AS content
+Section C: 30 multiple choice questions
+A-level
+Assessments
+Paper 1
+What's assessed
+Sections 1 - 5 and 6.1 (Periodic motion)
+Assessed
+• written exam: 2 hours
+• 85 marks
+• 34% of A-level
+Questions
+60 marks of short and long answer questions and 25 multiple choice questions on content.
+AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   9Paper 2
+What's assessed
+Sections 6.2 (Thermal Physics), 7 and 8
+Assumed knowledge from sections 1 to 6.1
+Assessed
+• written exam: 2 hours
+• 85 marks
+• 34% of A-level
+Questions
+60 marks of short and long answer questions and 25 multiple choice questions on content.
+Paper 3
+What's assessed
+Section A: Compulsory section: Practical skills and data analysis
+Section B: Students enter for one of sections 9, 10, 11, 12 or 13
+Assessed
+• written exam: 2 hours
+• 80 marks
+• 32% of A-level
+Questions
+45 marks of short and long answer questions on practical experiments and data analysis.
+35 marks of short and long answer questions on optional topic.
+10   Visit for the most up-to-date specification,  resources, support and administration3 Subject content
+Sections 3.1 to 3.5 are designed to be covered in the first year of the A-level and are also the AS
+subject content. So you can teach AS and A-level together.
+These specifications are presented in a two column format. The left hand column contains the
+specification content that all students must cover, and that can be assessed in the written papers.
+The right hand column exemplifies the opportunities for skills to be developed throughout the
+course. As such knowledge of individual experiments on the right hand side is not assumed
+knowledge for the assessment. The codes in the right hand column refer to the skills in relevant
+appendices. MS refers to the Mathematical Skills, AT refers to the Apparatus and Techniques and
+PS refers to the Practical Skills.
+3.1 Measurements and their errors
+Content in this section is a continuing study for a student of physics. A working knowledge of the
+specified fundamental (base) units of measurement is vital. Likewise, practical work in the subject
+needs to be underpinned by an awareness of the nature of measurement errors and of their
+numerical treatment. The ability to carry through reasonable estimations is a skill that is required
+throughout the course and beyond.
+3.1.1 Use of SI units and their prefixes
+Content Opportunities for skills
+development
+Fundamental (base) units.
+Use of mass, length, time, amount of substance,
+temperature, electric current and their associated SI units.
+SI units derived.
+Knowledge and use of the SI prefixes, values and standard
+form.
+The fundamental unit of light intensity, the candela, is
+excluded.
+Students are not expected to recall definitions of the
+fundamental quantities.
+Dimensional analysis is not required.
+Students should be able to use the prefixes:
+T,G, M, k, c, m, μ, n, p, f ,
+Students should be able to convert between different units
+of the same quantity, eg J and eV, J and kW h .AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   113.1.2 Limitation of physical measurements
+Content Opportunities for skills
+development
+Random and systematic errors.
+Precision, repeatability, reproducibility, resolution and
+accuracy.
+Uncertainty:
+Absolute, fractional and percentage uncertainties
+represent uncertainty in the final answer for a quantity.
+Combination of absolute and percentage uncertainties.
+Represent uncertainty in a data point on a graph using
+error bars.
+Determine the uncertainties in the gradient and intercept of
+a straight-line graph.
+Individual points on the graph may or may not have
+associated error bars.PS 2.3
+Students should be able to identify
+random and systematic errors and
+suggest ways to reduce or remove
+them.
+PS 3.3
+Students should understand the link
+between the number of significant
+figures in the value of a quantity and
+its associated uncertainty.
+MS 1.5
+Students should be able to combine
+uncertainties in cases where the
+measurements that give rise to the
+uncertainties are added, subtracted,
+multiplied, divided, or raised to
+powers. Combinations involving
+trigonometric or logarithmic functions
+will not be required.
+3.1.3 Estimation of physical quantities
+Content Opportunities for skills
+development
+Orders of magnitude.
+Estimation of approximate values of physical quantities.MS 1.4
+Students should be able to estimate
+approximate values of physical
+quantities to the nearest order of
+magnitude.
+Students should be able to use
+these estimates together with their
+knowledge of physics to produce
+further derived estimates also to the
+nearest order of magnitude.
+3.2 Particles and radiation
+This section introduces students both to the fundamental properties of matter, and to
+electromagnetic radiation and quantum phenomena. Teachers may wish to begin with this topic to
+provide a new interest and knowledge dimension beyond GCSE. Through a study of these topics,
+students become aware of the way ideas develop and evolve in physics. They will appreciate the
+12   Visit for the most up-to-date specification,  resources, support and administrationimportance of international collaboration in the development of new experiments and theories in
+this area of fundamental research.
+3.2.1 Particles
+3.2.1.1 Constituents of the atom
+Content Opportunities for skills
+development
+Simple model of the atom, including the proton, neutron
+and electron. Charge and mass of the proton, neutron and
+electron in SI units and relative units.
+The atomic mass unit (amu) is included in the A-level
+Nuclear physics section.
+Specific charge of the proton and the electron, and of
+nuclei and ions.
+Proton number Z, nucleon number A, nuclide notation.
+Students should be familiar with the XZA notation.
+Meaning of isotopes and the use of isotopic data.
+3.2.1.2 Stable and unstable nuclei
+Content Opportunities for skills
+development
+The strong nuclear force; its role in keeping the nucleus
+stable; short-range attraction up to approximately 3 fm,
+very-short range repulsion closer than approximately 0.5
+fm.
+Unstable nuclei; alpha and beta decay.
+Equations for alpha decay, β − decay including the need for
+the neutrino.
+The existence of the neutrino was hypothesised to
+account for conservation of energy in beta decay.AT i
+Demonstration of the range of alpha
+particles using a cloud chamber,
+spark counter or Geiger counter.
+MS 0.2
+Use of prefixes for small and large
+distance measurements.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   133.2.1.3 Particles, antiparticles and photons
+Content Opportunities for skills
+development
+For every type of particle, there is a corresponding
+antiparticle.
+Comparison of particle and antiparticle masses, charge
+and rest energy in MeV .
+Students should know that the positron, antiproton,
+antineutron and antineutrino are the antiparticles of the
+electron, proton, neutron and neutrino respectively.
+Photon model of electromagnetic radiation, the Planck
+constant.
+E=h f=hc
+λ
+Knowledge of annihilation and pair production and the
+energies involved.
+The use of E=mc2 is not required in calculations.AT i
+Detection of gamma radiation.
+MS 1.1, 2.2
+Students could determine the
+frequency and wavelength of the two
+gamma photons produced when a
+‘slow’ electron and a ‘slow' positron
+annihilate each other.
+The PET scanner could be used as
+an application of annihilation.
+3.2.1.4 Particle interactions
+Content Opportunities for skills
+development
+Four fundamental interactions: gravity, electromagnetic,
+weak nuclear, strong nuclear. (The strong nuclear force
+may be referred to as the strong interaction.)
+The concept of exchange particles to explain forces
+between elementary particles.
+Knowledge of the gluon, Z0 and graviton will not be tested.
+The electromagnetic force; virtual photons as the
+exchange particle.
+The weak interaction limited to β −and β+ decay, electron
+capture and electron–proton collisions; W+ and W− as the
+exchange particles.
+Simple diagrams to represent the above reactions or
+interactions in terms of incoming and outgoing particles
+and exchange particles.PS 1.2
+Momentum transfer of a heavy ball
+thrown from one person to another.
+14   Visit for the most up-to-date specification,  resources, support and administration3.2.1.5 Classification  of particles
+Content Opportunities for skills
+development
+Hadrons are subject to the strong interaction.
+The two classes of hadrons:
+• baryons (proton, neutron) and antibaryons
+(antiproton and antineutron)
+• mesons (pion, kaon).
+Baryon number as a quantum number.
+Conservation of baryon number.
+The proton is the only stable baryon into which other
+baryons eventually decay.
+The pion as the exchange particle of the strong nuclear
+force.
+The kaon as a particle that can decay into pions.
+Leptons: electron, muon, neutrino (electron and muon
+types only) and their antiparticles.
+Lepton number as a quantum number; conservation of
+lepton number for muon leptons and for electron leptons.
+The muon as a particle that decays into an electron.
+Strange particles
+Strange particles as particles that are produced through
+the strong interaction and decay through the weak
+interaction (eg kaons).
+Strangeness (symbol s) as a quantum number to reflect
+the fact that strange particles are always created in pairs.
+Conservation of strangeness in strong interactions.
+Strangeness can change by 0, +1 or -1 in weak
+interactions.
+Appreciation that particle physics relies on the
+collaborative efforts of large teams of scientists and
+engineers to validate new knowledge.AT k
+Use of computer simulations of
+particle collisions.
+AT I
+Cosmic ray showers as a source of
+high energy particles including pions
+and kaons; observation of stray
+tracks in a cloud chamber; use of two
+Geiger counters to detect a cosmic
+ray shower.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   153.2.1.6 Quarks and antiquarks
+Content Opportunities for skills
+development
+Properties of quarks and antiquarks: charge, baryon
+number and strangeness.
+Combinations of quarks and antiquarks required for
+baryons (proton and neutron only), antibaryons (antiproton
+and antineutron only) and mesons (pion and kaon only).
+Only knowledge of up (u), down (d) and strange (s) quarks
+and their antiquarks will be tested.
+The decay of the neutron should be known.
+3.2.1.7 Applications of conservation laws
+Content Opportunities for skills
+development
+Change of quark character in β −and in β+ decay.
+Application of the conservation laws for charge, baryon
+number, lepton number and strangeness to particle
+interactions. The necessary data will be provided in
+questions for particles outside those specified.
+Students should recognise that energy and momentum
+are conserved in interactions.
+3.2.2 Electromagnetic radiation and quantum phenomena
+3.2.2.1 The photoelectric effect
+Content Opportunities for skills
+development
+Threshold frequency; photon explanation of threshold
+frequency.
+Work function ϕ, stopping potential.
+Photoelectric equation: h f= ϕ+Ek (max
+Ek (max  is the maximum kinetic energy of the
+photoelectrons.
+The experimental determination of stopping potential is not
+required.PS 3.2 / MS 2.3
+Demonstration of the photoelectric
+effect using a photocell or an
+electroscope with a zinc plate
+attachment and UV lamp.
+16   Visit for the most up-to-date specification,  resources, support and administration3.2.2.2 Collisions of electrons with atoms
+Content Opportunities for skills
+development
+Ionisation and excitation; understanding of ionisation and
+excitation in the fluorescent tube.
+The electron volt.
+Students will be expected to be able to convert eV into J
+and vice versa.
+3.2.2.3 Energy levels and photon emission
+Content Opportunities for skills
+development
+Line spectra (eg of atomic hydrogen) as evidence for
+transitions between discrete energy levels in atoms.
+h f=E1 −E2
+In questions, energy levels may be quoted in J or eV.AT j / MS 0.1, 0.2
+Observation of line spectra using a
+diffraction grating.
+3.2.2.4 Wave-particle duality
+Content Opportunities for skills
+development
+Students should know that electron diffraction suggests
+that particles possess wave properties and the
+photoelectric effect suggests that electromagnetic waves
+have a particulate nature.
+Details of particular methods of particle diffraction are not
+expected.
+de Broglie wavelength λ=h
+mv where mv is the momentum.
+Students should be able to explain how and why the
+amount of diffraction changes when the momentum of the
+particle is changed.
+Appreciation of how knowledge and understanding of the
+nature of matter changes over time.
+Appreciation that such changes need to be evaluated
+through peer review and validated by the scientific
+community.PS 1.2
+Demonstration using an electron
+diffraction tube.
+MS 1.1, 2.3
+Use prefixes when expressing
+wavelength values.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   173.3 Waves
+GCSE studies of wave phenomena are extended through a development of knowledge of the
+characteristics, properties, and applications of travelling waves and stationary waves. Topics
+treated include refraction, diffraction, superposition and interference.
+3.3.1 Progressive and stationary waves
+3.3.1.1 Progressive waves
+Content Opportunities for skills
+development
+Oscillation of the particles of the medium;
+amplitude, frequency, wavelength, speed, phase, phase
+difference, c=f λ     f =1
+T
+Phase difference may be measured as angles (radians
+and degrees) or as fractions of a cycle.PS 2.3 / MS 0.1, 4.7 / AT a, b
+Laboratory experiment to determine
+the speed of sound in free air using
+direct timing or standing waves with a
+graphical analysis.
+3.3.1.2 Longitudinal and transverse waves
+Content Opportunities for skills
+development
+Nature of longitudinal and transverse waves.
+Examples to include: sound, electromagnetic waves, and
+waves on a string.
+Students will be expected to know the direction of
+displacement of particles/fields relative to the direction of
+energy propagation and that all electromagnetic waves
+travel at the same speed in a vacuum.
+Polarisation as evidence for the nature of transverse
+waves.
+Applications of polarisers to include Polaroid material and
+the alignment of aerials for transmission and reception.
+Malus’s law will not be expected.PS 2.2, 2.4 / MS 1.2, 3.2, 3.4, 3.5 /
+AT i
+Students can investigate the factors
+that determine the speed of a water
+wave.
+18   Visit for the most up-to-date specification,  resources, support and administration3.3.1.3 Principle of superposition of waves and formation of stationary waves
+Content Opportunities for skills
+development
+Stationary waves.
+Nodes and antinodes on strings.
+f=1
+2lT
+μ for first harmonic.
+The formation of stationary waves by two waves of the
+same frequency travelling in opposite directions.
+A graphical explanation of formation of stationary waves
+will be expected.
+Stationary waves formed on a string and those produced
+with microwaves and sound waves should be considered.
+Stationary waves on strings will be described in terms of
+harmonics. The terms fundamental (for first harmonic) and
+overtone will not be used.MS 4.7 / PS 1.2, 2.1 / AT i
+Students can investigate the factors
+that determine the frequency of
+stationary wave patterns of a
+stretched string.
+Required practical 1:  Investigation into the variation of
+the frequency of stationary waves on a string with length,
+tension and mass per unit length of the string.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   193.3.2 Refraction, diffraction and interference
+3.3.2.1 Interference
+Content Opportunities for skills
+development
+Path difference. Coherence.
+Interference and diffraction using a laser as a source of
+monochromatic light.
+Young’s double-slit experiment: the use of two coherent
+sources or the use of a single source with double slits to
+produce an interference pattern.
+Fringe spacing, w=λD
+s
+Production of interference pattern using white light.
+Students are expected to show awareness of safety
+issues associated with using lasers.
+Students will not be required to describe how a laser
+works.
+Students will be expected to describe and explain
+interference produced with sound and electromagnetic
+waves.
+Appreciation of how knowledge and understanding of
+nature of electromagnetic radiation has changed over
+time.AT i
+Investigation of two-source
+interference with sound, light and
+microwave radiation.
+Required practical 2:  Investigation of interference effects
+to include the Young’s slit experiment and interference by
+a diffraction grating.
+20   Visit for the most up-to-date specification,  resources, support and administration3.3.2.2 Diffraction
+Content Opportunities for skills
+development
+Appearance of the diffraction pattern from a single slit
+using monochromatic and white light.
+Qualitative treatment of the variation of the width of the
+central diffraction maximum with wavelength and slit width.
+The graph of intensity against angular separation is not
+required.
+Plane transmission diffraction grating at normal incidence.
+Derivation of dsin θ=n λ
+Use of the spectrometer will not be tested.
+Applications of diffraction gratings.
+3.3.2.3 Refraction at a plane surface
+Content Opportunities for skills
+development
+Refractive index of a substance,  n=c
+cs
+Students should recall that the refractive index of air is
+approximately 1.
+Snell’s law of refraction for a boundary
+  n1sin θ1=n2sin θ2
+Total internal reflection sin θc=n2
+n1
+Simple treatment of fibre optics including the function of
+the cladding.
+Optical fibres will be limited to step index only.
+Material and modal dispersion.
+Students are expected to understand the principles and
+consequences of pulse broadening and absorption.MS 0.6, 4.1
+3.4 Mechanics and materials
+Vectors and their treatment are introduced followed by development of the student’s knowledge
+and understanding of forces, energy and momentum. The section continues with a study of
+materials considered in terms of their bulk properties and tensile strength. As with earlier topics,
+this section and also the following section Electricity would provide a good starting point for
+students who prefer to begin by consolidating work.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   213.4.1 Force, energy and momentum
+3.4.1.1 Scalars and vectors
+Content Opportunities for skills
+development
+Nature of scalars and vectors.
+Examples should include:
+velocity/speed, mass, force/weight, acceleration,
+displacement/distance.
+Addition of vectors by calculation or scale drawing.
+Calculations will be limited to two vectors at right angles.
+Scale drawings may involve vectors at angles other than
+90°.
+Resolution of vectors into two components at right angles
+to each other.
+Examples should include components of forces along and
+perpendicular to an inclined plane.
+Problems may be solved either by the use of resolved
+forces or the use of a closed triangle.
+Conditions for equilibrium for two or three coplanar forces
+acting at a point. Appreciation of the meaning of
+equilibrium in the context of an object at rest or moving
+with constant velocity.MS 0.6, 4.2, 4.4, 4.5 / PS 1.1
+Investigation of the conditions for
+equilibrium for three coplanar forces
+acting at a point using a force board.
+3.4.1.2 Moments
+Content Opportunities for skills
+development
+Moment of a force about a point.
+Moment defined as force × perpendicular distance from
+the point to the line of action of the force .
+Couple as a pair of equal and opposite coplanar forces.
+Moment of couple defined as force × perpendicular
+distance between the lines of action of the forces .
+Principle of moments.
+Centre of mass.
+Knowledge that the position of the centre of mass of
+uniform regular solid is at its centre.
+22   Visit for the most up-to-date specification,  resources, support and administration3.4.1.3 Motion along a straight line
+Content Opportunities for skills
+development
+Displacement, speed, velocity, acceleration.
+v=∆s
+∆t
+a=∆v
+∆t
+Calculations may include average and instantaneous
+speeds and velocities.
+Representation by graphical methods of uniform and non-
+uniform acceleration.
+Significance of areas of velocity–time and acceleration–
+time graphs and gradients of displacement–time and
+velocity–time graphs for uniform and non-uniform
+acceleration eg graphs for motion of bouncing ball.
+Equations for uniform acceleration:
+v=u+at
+s=u+v
+2t
+ s=ut+at2
+2
+v2=u2+ 2as
+Acceleration due to gravity, g.MS 3.6, 3.7 / PS 1.1, 3.1
+Distinguish between instantaneous
+velocity and average velocity.
+MS 3.5, 3.6
+Measurements and calculations from
+displacement–time, velocity–time and
+acceleration–time graphs.
+MS 0.5, 2.2, 2.3, 2.4
+Calculations involving motion in a
+straight line.
+Required practical 3 : Determination of g by a freefall
+method.MS 0.3, 1.2, 3.7 / AT d
+Students should be able to identify
+random and systematic errors in the
+experiment and suggest ways to
+remove them.
+MS 3.9
+Determine g from a graph.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   233.4.1.4 Projectile motion
+Content Opportunities for skills
+development
+Independent effect of motion in horizontal and vertical
+directions of a uniform gravitational field. Problems will be
+solvable using the equations of uniform acceleration.
+Qualitative treatment of friction.
+Distinctions between static and dynamic friction will not be
+tested.
+Qualitative treatment of lift and drag forces.
+Terminal speed.
+Knowledge that air resistance increases with speed.
+Qualitative understanding of the effect of air resistance on
+the trajectory of a projectile and on the factors that affect
+the maximum speed of a vehicle.PS 2.2, 3.1
+Investigation of the factors that
+determine the motion of an object
+through a fluid.
+3.4.1.5 Newton’s laws of motion
+Content Opportunities for skills
+development
+Knowledge and application of the three laws of motion in
+appropriate situations.
+F=ma for situations where the mass is constant.PS 4.1 / MS 0.5, 3.2 / AT a, b, d
+Students can verify Newton’s second
+law of motion.
+MS 4.1, 4.2
+Students can use free-body
+diagrams.
+24   Visit for the most up-to-date specification,  resources, support and administration3.4.1.6 Momentum
+Content Opportunities for skills
+development
+momentum =mass ×velocity
+Conservation of linear momentum.
+Principle applied quantitatively to problems in one
+dimension.
+Force as the rate of change of momentum, F=∆mv
+∆t
+Impulse = change in momentum
+F ∆t= ∆mv , where F is constant.
+Significance of the area under a force–time graph.
+Quantitative questions may be set on forces that vary with
+time. Impact forces are related to contact times (eg kicking
+a football, crumple zones, packaging).
+Elastic and inelastic collisions; explosions.
+Appreciation of momentum conservation issues in the
+context of ethical transport design.MS 2.2, 2.3
+Students can apply conservation of
+momentum and rate of change of
+momentum to a range of examples.
+3.4.1.7 Work, energy and power
+Content Opportunities for skills
+development
+Energy transferred, W=Fscos θ
+rate of doing work =rate of energy transfer ,  P=∆W
+∆t
+=Fv
+Quantitative questions may be set on variable forces.
+Significance of the area under a force–displacement
+graph.
+efficiency =useful output power
+input power
+Efficiency can be expressed as a percentage.MS 0.3 / PS 3.3, 4.1 / AT a, b, f .
+Investigate the efficiency of an
+electric motor being used to raise a
+mass through a measured height.
+Students should be able to identify
+random and systematic errors in the
+experiment and suggest ways to
+remove them.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   253.4.1.8 Conservation of energy
+Content Opportunities for skills
+development
+Principle of conservation of energy.
+∆Ep=mg ∆h and Ek=1
+2mv2
+Quantitative and qualitative application of energy
+conservation to examples involving gravitational potential
+energy, kinetic energy, and work done against resistive
+forces.MS 0.4, 2.2
+Estimate the energy that can be
+derived from food consumption.
+3.4.2 Materials
+3.4.2.1 Bulk properties of solids
+Content Opportunities for skills
+development
+Density, ρ=m
+V
+Hooke’s law, elastic limit,
+F=k ∆L , k as stiffness and spring constant.
+Tensile strain and tensile stress.
+Elastic strain energy, breaking stress.
+energy stored =1
+2F ∆L
+=area under force −extension graph
+Description of plastic behaviour, fracture and brittle
+behaviour linked to force–extension graphs.
+Quantitative and qualitative application of energy
+conservation to examples involving elastic strain energy
+and energy to deform.
+Spring energy transformed to kinetic and gravitational
+potential energy.
+Interpretation of simple stress–strain curves.
+Appreciation of energy conservation issues in the context
+of ethical transport design.MS 0.2, 4.3 / PS 3.3, 4.1
+Students can compare the use of
+analogue and digital meters.
+MS 0.4, 4.3 / AT e
+Estimate the volume of an object
+leading to an estimate of its density.
+26   Visit for the most up-to-date specification,  resources, support and administration3.4.2.2 The Young modulus
+Content Opportunities for skills
+development
+Young modulus =tensile stress
+tensile strain=FL
+A ∆L
+Use of stress–strain graphs to find the Young modulus.
+(One simple method of measurement is required.)MS 3.1
+Required practical 4:  Determination of the Young
+modulus by a simple method.
+3.5 Electricity
+This section builds on and develops earlier study of these phenomena from GCSE. It provides
+opportunities for the development of practical skills at an early stage in the course and lays the
+groundwork for later study of the many electrical applications that are important to society.
+3.5.1 Current electricity
+3.5.1.1 Basics of electricity
+Content Opportunities for skills
+development
+Electric current as the rate of flow of charge; potential
+difference as work done per unit charge.
+I=∆Q
+∆t, V=W
+Q
+Resistance defined as R=V
+IAT b, f
+Students can construct circuits from
+the range of components.
+3.5.1.2 Current–voltage characteristics
+Content Opportunities for skills
+development
+For an ohmic conductor, semiconductor diode, and
+filament lamp.
+Ohm’s law as a special case where I ∝V under constant
+physical conditions.
+Unless specifically stated in questions, ammeters and
+voltmeters should be treated as ideal (having zero and
+infinite resistance respectively).
+Questions can be set where either I or V is on the
+horizontal axis of the characteristic graph.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   273.5.1.3 Resistivity
+Content Opportunities for skills
+development
+Resistivity, ρ=RA
+L
+Description of the qualitative effect of temperature on the
+resistance of metal conductors and thermistors.
+Only negative temperature coefficient (ntc) thermistors will
+be considered.
+Applications of thermistors to include temperature sensors
+and resistance–temperature graphs.
+Superconductivity as a property of certain materials which
+have zero resistivity at and below a critical temperature
+which depends on the material.
+Applications of superconductors to include the production
+of strong magnetic fields and the reduction of energy loss
+in transmission of electric power.
+Critical field will not be assessed.MS 3.2, 4.3 / PS 1.2 / AT a, b, f, g
+Investigation of the variation of
+resistance of a thermistor with
+temperature.
+Required practical 5:  Determination of resistivity of a wire
+using a micrometer, ammeter and voltmeter.
+3.5.1.4 Circuits
+Content Opportunities for skills
+development
+Resistors:
+in series , RT=R1+R2+R3+ …
+in parallel ,1
+RT=1
+R1+1
+R2+1
+R3+ …
+Energy  and power  equations : E=IVt;
+P=IV=I2R=V2
+R
+The relationships between currents, voltages and
+resistances in series and parallel circuits, including cells in
+series and identical cells in parallel.
+Conservation of charge and conservation of energy in dc
+circuits.MS 0.3 / PS 4.1 / AT a, b, f, g
+Students can construct circuits with
+various component configurations
+and measure currents and potential
+differences.
+28   Visit for the most up-to-date specification,  resources, support and administration3.5.1.5 Potential divider
+Content Opportunities for skills
+development
+The potential divider used to supply constant or variable
+potential difference from a power supply.
+The use of the potentiometer as a measuring instrument is
+not required.
+Examples should include the use of variable resistors,
+thermistors, and light dependent resistors (LDR) in the
+potential divider.MS 3.2 / PS 4.1 / AT f
+Students can investigate the
+behaviour of a potential divider
+circuit.
+MS 3.2 / AT g
+Students should design and
+construct potential divider circuits to
+achieve various outcomes.
+3.5.1.6 Electromotive force and internal resistance
+Content Opportunities for skills
+development
+ε=E
+Q , ε=IR+r
+Terminal pd; emf
+Students will be expected to understand and perform
+calculations for circuits in which the internal resistance of
+the supply is not negligible.
+Required practical 6:  Investigation of the emf and
+internal resistance of electric cells and batteries by
+measuring the variation of the terminal pd of the cell with
+current in it.MS 3.1, 3.3 / PS 2.2, 3.1 / AT f
+3.6 Further mechanics and thermal physics (A-level only)
+The earlier study of mechanics is further advanced through a consideration of circular motion and
+simple harmonic motion (the harmonic oscillator). A further section allows the thermal properties of
+materials, the properties and nature of ideal gases, and the molecular kinetic theory to be studied
+in depth.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   293.6.1 Periodic motion (A-level only)
+3.6.1.1 Circular motion (A-level only)
+Content Opportunities for skills
+development
+Motion in a circular path at constant speed implies there is
+an acceleration and requires a centripetal force.
+Magnitude of angular speed ω=v
+r= 2 πf
+Radian measure of angle.
+Direction of angular velocity will not be considered.
+Centripetal acceleration a=v2
+r= ω2r
+The derivation of the centripetal acceleration formula will
+not be examined.
+Centripetal force F=mv2
+r=m ω2rMS 0.4
+Estimate the acceleration and
+centripetal force in situations that
+involve rotation.
+3.6.1.2 Simple harmonic motion (SHM) (A-level only)
+Content Opportunities for skills
+development
+Analysis of characteristics of simple harmonic motion
+(SHM).
+Condition for SHM: a ∝ − x
+Defining equation: a= − ω2x
+x=Acos ωt and v= ± ωA2−x2
+Graphical representations linking the variations of x, v and
+a with time.
+Appreciation that the v −t graph is derived from the
+gradient of the x −t graph and that the a −t graph is
+derived from the gradient of the v −t graph.
+Maximum speed = ωA
+Maximum acceleration = ω2AAT i, k
+Data loggers can be used to produce
+s −t, v −t and a −t graphs for SHM.
+MS 3.6, 3.8, 3.9, 3.12
+Sketch relationships between x, v, a
+and t for simple harmonic oscillators.
+30   Visit for the most up-to-date specification,  resources, support and administration3.6.1.3 Simple harmonic systems (A-level only)
+Content Opportunities for skills
+development
+Study of mass-spring system: T= 2 πm
+k
+Study of simple pendulum: T= 2 πl
+g
+Questions may involve other harmonic oscillators (eg
+liquid in U-tube) but full information will be provided in
+questions where necessary.
+Variation of Ek,  Ep, and total energy with both
+displacement and time.
+Effects of damping on oscillations.MS 4.6 / AT b, c
+Students should recognise the use of
+the small-angle approximation in the
+derivation of the time period for
+examples of approximate SHM.
+Required practical 7:  Investigation into simple harmonic
+motion using a mass–spring system and a simple
+pendulum.
+3.6.1.4 Forced vibrations and resonance (A-level only)
+Content Opportunities for skills
+development
+Qualitative treatment of free and forced vibrations.
+Resonance and the effects of damping on the sharpness
+of resonance.
+Examples of these effects in mechanical systems and
+situations involving stationary waves.AT g, i, k
+Investigation of the factors that
+determine the resonant frequency of
+a driven system.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   313.6.2 Thermal physics (A-level only)
+3.6.2.1 Thermal energy transfer (A-level only)
+Content Opportunities for skills
+development
+Internal energy is the sum of the randomly distributed
+kinetic energies and potential energies of the particles in a
+body.
+The internal energy of a system is increased when energy
+is transferred to it by heating or when work is done on it
+(and vice versa), eg a qualitative treatment of the first law
+of thermodynamics.
+Appreciation that during a change of state the potential
+energies of the particle ensemble are changing but not the
+kinetic energies. Calculations involving transfer of energy.
+For a change of temperature: Q=mc ∆ θ where c is
+specific heat capacity.
+Calculations including continuous flow.
+For a change of state Q=ml where l is the specific latent
+heat.MS 1.5 / PS 2.3 / AT a, b, d, f
+Investigate the factors that affect the
+change in temperature of a
+substance using an electrical method
+or the method of mixtures.
+Students should be able to identify
+random and systematic errors in the
+experiment and suggest ways to
+remove them.
+PS 1.1, 4.1 / AT k
+Investigate, with a data logger and
+temperature sensor, the change in
+temperature with time of a substance
+undergoing a phase change when
+energy is supplied at a constant rate.
+3.6.2.2 Ideal gases (A-level only)
+Content Opportunities for skills
+development
+Gas laws as experimental relationships between p, V, T
+and the mass of the gas.
+Concept of absolute zero of temperature.
+Ideal gas equation: pV=nRT  for n moles and pV=NkT
+for N molecules.
+Work done =p ∆V
+Avogadro constant NA, molar gas constant R, Boltzmann
+constant k
+Molar mass and molecular mass.
+Required practical 8:  Investigation of Boyle's law
+(constant temperature) and Charles’s law (constant
+pressure) for a gas.MS 3.3, 3.4, 3.14 / AT a
+32   Visit for the most up-to-date specification,  resources, support and administration3.6.2.3 Molecular kinetic theory model (A-level only)
+Content Opportunities for skills
+development
+Brownian motion as evidence for existence of atoms.
+Explanation of relationships between p, V and T in terms
+of a simple molecular model.
+Students should understand that the gas laws are
+empirical in nature whereas the kinetic theory model
+arises from theory.
+Assumptions leading to pV=1
+3Nmcrms2   including
+derivation of the equation and calculations.
+A simple algebraic approach involving conservation of
+momentum is required.
+Appreciation that for an ideal gas internal energy is kinetic
+energy of the atoms.
+Use of average molecular kinetic energy  =
+1
+2mcrms2=3
+2kT=3RT
+2NA
+Appreciation of how knowledge and understanding of the
+behaviour of a gas has changed over time.
+3.7 Fields and their consequences (A-level only)
+The concept of field is one of the great unifying ideas in physics. The ideas of gravitation,
+electrostatics and magnetic field theory are developed within the topic to emphasise this
+unification. Many ideas from mechanics and electricity from earlier in the course support this and
+are further developed. Practical applications considered include: planetary and satellite orbits,
+capacitance and capacitors, their charge and discharge through resistors, and electromagnetic
+induction. These topics have considerable impact on modern society.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   333.7.1 Fields (A-level only)
+Content Opportunities for skills
+development
+Concept of a force field as a region in which a body
+experiences a non-contact force.
+Students should recognise that a force field can be
+represented as a vector, the direction of which must be
+determined by inspection.
+Force fields arise from the interaction of mass, of static
+charge, and between moving charges.
+Similarities and differences between gravitational and
+electrostatic forces:
+Similarities: Both have inverse-square force laws that have
+many characteristics in common, eg use of field lines, use
+of potential concept, equipotential surfaces etc
+Differences: masses always attract, but charges may
+attract or repel
+3.7.2 Gravitational fields (A-level only)
+3.7.2.1 Newton's law (A-level only)
+Content Opportunities for skills
+development
+Gravity as a universal attractive force acting between all
+matter.
+Magnitude of force between point masses: F=Gm 1m2
+r2
+where G is the gravitational constant.MS 0.4
+Students can estimate the
+gravitational force between a variety
+of objects.
+3.7.2.2 Gravitational field strength (A-level only)
+Content Opportunities for skills
+development
+Representation of a gravitational field by gravitational field
+lines.
+g as force per unit mass as defined by g=F
+m
+Magnitude of g in a radial field given by g =GM
+r2
+34   Visit for the most up-to-date specification,  resources, support and administration3.7.2.3 Gravitational potential (A-level only)
+Content Opportunities for skills
+development
+Understanding of definition of gravitational potential,
+including zero value at infinity.
+Understanding of gravitational potential difference.
+Work done in moving mass m given by ∆W=m ∆V
+Equipotential surfaces.
+Idea that no work is done when moving along an
+equipotential surface.
+V in a radial field given by V= −GM
+r
+Significance of the negative sign.
+Graphical representations of variations of g and V with  r.
+V related to g by: g= −∆V
+∆r
+∆V from area under graph of g against r.MS 3.8, 3.9
+Students use graphical
+representations to investigate
+relationships between v, r and g.
+3.7.2.4 Orbits of planets and satellites (A-level only)
+Content Opportunities for skills
+development
+Orbital period and speed related to radius of circular orbit;
+derivation of T2∝r3
+Energy considerations for an orbiting satellite.
+Total energy of an orbiting satellite.
+Escape velocity.
+Synchronous orbits.
+Use of satellites in low orbits and geostationary orbits, to
+include plane and radius of geostationary orbit.MS 0.4
+Estimate various parameters of
+planetary orbits, eg kinetic energy of
+a planet in orbit.
+MS 3.11
+Use logarithmic plots to show
+relationships between T and r for
+given data.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   353.7.3 Electric fields (A-level only)
+3.7.3.1 Coulomb's law (A-level only)
+Content Opportunities for skills
+development
+Force between point charges in a vacuum:
+F=1
+4 π ε0Q1Q2
+r2
+Permittivity of free space, ε0
+Appreciation that air can be treated as a vacuum when
+calculating force between charges.
+For a charged sphere, charge may be considered to be at
+the centre.
+Comparison of magnitude of gravitational and electrostatic
+forces between subatomic particles.MS 0.3, 2.3
+Students can estimate the magnitude
+of the electrostatic force between
+various charge configurations.
+3.7.3.2 Electric field strength (A-level only)
+Content Opportunities for skills
+development
+Representation of electric fields by electric field lines.
+Electric field strength.
+E as force per unit charge defined by E=F
+Q
+Magnitude of E in a uniform field given by E=V
+d
+Derivation from work done moving charge between plates:
+Fd=  Q ΔV
+Trajectory of moving charged particle entering a uniform
+electric field initially at right angles.
+Magnitude of E in a radial field given by E=1
+4 π ε0Q
+r2PS 1.2, 2.2 / AT b
+Students can investigate the patterns
+of various field configurations using
+conducting paper (2D) or electrolytic
+tank (3D).
+36   Visit for the most up-to-date specification,  resources, support and administration3.7.3.3 Electric potential (A-level only)
+Content Opportunities for skills
+development
+Understanding of definition of absolute electric potential,
+including zero value at infinity, and of electric potential
+difference.
+Work done in moving charge Q given by ∆W=Q ∆V
+Equipotential surfaces.
+No work done moving charge along an equipotential
+surface.
+Magnitude of V in a radial field given by V=1
+4 π ε0Q
+r
+Graphical representations of variations of E and V with r.
+V related to E by E=∆V
+∆r
+∆V from the area under graph of E against r.
+3.7.4 Capacitance (A-level only)
+3.7.4.1 Capacitance (A-level only)
+Content Opportunities for skills
+development
+Definition of capacitance: C=Q
+V
+3.7.4.2 Parallel plate capacitor (A-level only)
+Content Opportunities for skills
+development
+Dielectric action in a capacitor C=A ε0 εr
+d
+Relative permittivity and dielectric constant.
+Students should be able to describe the action of a simple
+polar molecule that rotates in the presence of an electric
+field.PS 1.2, 2.2, 4.3 / AT f, g
+Determine the relative permittivity of
+a dielectric using a parallel-plate
+capacitor.
+Investigate the relationship between
+C and the dimensions of a parallel-
+plate capacitor eg using a
+capacitance meter.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   373.7.4.3 Energy stored by a capacitor (A-level only)
+Content Opportunities for skills
+development
+Interpretation of the area under a graph of charge against
+pd.
+E=1
+2QV=1
+2CV2=1
+2 Q2
+C
+3.7.4.4 Capacitor charge and discharge (A-level only)
+Content Opportunities for skills
+development
+Graphical representation of charging and discharging of
+capacitors through resistors. Corresponding graphs for Q,
+V and I against time for charging and discharging.
+Interpretation of gradients and areas under graphs where
+appropriate.
+Time constant RC.
+Calculation of time constants including their determination
+from graphical data.
+Time to halve, T½= 0.69 RC
+Quantitative treatment of capacitor discharge, Q=Q0e−t
+RC
+Use of the corresponding equations for V and I.
+Quantitative treatment of capacitor charge,
+ Q=Q01 −e−t
+RC
+Required practical 9:  Investigation of the charge and
+discharge of capacitors. Analysis techniques should
+include log-linear plotting leading to a determination of the
+time constant, RCMS 3.8, 3.10, 3.11 / PS 2.2, 2.3 / AT
+f, k
+38   Visit for the most up-to-date specification,  resources, support and administration3.7.5 Magnetic fields (A-level only)
+3.7.5.1 Magnetic flux density (A-level only)
+Content Opportunities for skills
+development
+Force on a current-carrying wire in a magnetic field:
+F=BIl when field is perpendicular to current.
+Fleming’s left hand rule.
+Magnetic flux density B and definition of the tesla.
+Required practical 10:  Investigate how the force on a
+wire varies with flux density, current and length of wire
+using a top pan balance.
+3.7.5.2 Moving charges in a magnetic field (A-level only)
+Content Opportunities for skills
+development
+Force on charged particles moving in a magnetic field,
+F=BQv when the field is perpendicular to velocity.
+Direction of force on positive and negative charged
+particles.
+Circular path of particles; application in devices such as
+the cyclotron.MS 4.3
+Convert between 2D representations
+and 3D situations.
+3.7.5.3 Magnetic flux and flux linkage (A-level only)
+Content Opportunities for skills
+development
+Magnetic flux defined by Φ=BA where B is normal to A.
+Flux linkage as N Φ where N is the number of turns
+cutting the flux.
+Flux and flux linkage passing through a rectangular coil
+rotated in a magnetic field:
+flux linkage N Φ=BAN cos θ
+Required practical 11: Investigate, using a search coil
+and oscilloscope, the effect on magnetic flux linkage of
+varying the angle between a search coil and magnetic field
+direction.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   393.7.5.4 Electromagnetic induction (A-level only)
+Content Opportunities for skills
+development
+Simple experimental phenomena.
+Faraday’s and Lenz’s laws.
+Magnitude of induced emf = rate of change of flux linkage
+ε=N∆ Φ
+∆t
+Applications such as a straight conductor moving in a
+magnetic field.
+emf induced in a coil rotating uniformly in a magnetic field:
+ε=BAN ωsin ωt
+3.7.5.5 Alternating currents (A-level only)
+Content Opportunities for skills
+development
+Sinusoidal voltages and currents only; root mean square,
+peak and peak-to-peak values for sinusoidal waveforms
+only.
+Irms=I0
+2 ; Vrms=V0
+2
+Application to the calculation of mains electricity peak and
+peak-to-peak voltage values.
+Use of an oscilloscope as a dc and ac voltmeter, to
+measure time intervals and frequencies, and to display ac
+waveforms.
+No details of the structure of the instrument are required
+but familiarity with the operation of the controls is
+expected.
+40   Visit for the most up-to-date specification,  resources, support and administration3.7.5.6 The operation of a transformer (A-level only)
+Content Opportunities for skills
+development
+The transformer equation:  Ns
+Np=Vs
+Vp
+Transformer efficiency =  ISVS
+IPVP
+Production of eddy currents.
+Causes of inefficiencies in a transformer.
+Transmission of electrical power at high voltage including
+calculations of power loss in transmission lines.MS 0.3 / AT b, h
+Investigate relationships between
+currents, voltages and numbers of
+coils in transformers.
+3.8 Nuclear physics (A-level only)
+This section builds on the work of Particles and radiation to link the properties of the nucleus to the
+production of nuclear power through the characteristics of the nucleus, the properties of unstable
+nuclei, and the link between energy and mass. Students should become aware of the physics that
+underpins nuclear energy production and also of the impact that it can have on society.
+3.8.1 Radioactivity (A-level only)
+3.8.1.1 Rutherford scattering (A-level only)
+Content Opportunities for skills
+development
+Qualitative study of Rutherford scattering.
+Appreciation of how knowledge and understanding of the
+structure of the nucleus has changed over time.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   413.8.1.2 α, β and γ radiation (A-level only)
+Content Opportunities for skills
+development
+Their properties and experimental identification using
+simple absorption experiments; applications eg to relative
+hazards of exposure to humans.
+Applications also include thickness measurements of
+aluminium foil paper and steel.
+Inverse-square law for γ radiation:  I=k
+x2
+Experimental verification of inverse-square law.
+Applications eg to safe handling of radioactive sources.
+Background radiation; examples of its origins and
+experimental elimination from calculations.
+Appreciation of balance between risk and benefits in the
+uses of radiation in medicine.
+Required practical 12: Investigation of the inverse-
+square law for gamma radiation.
+3.8.1.3 Radioactive decay (A-level only)
+Content Opportunities for skills
+development
+Random nature of radioactive decay; constant decay
+probability of a given nucleus;
+ ∆N
+∆t= − λN
+N=N0e− λt
+Use of activity, A= λN
+Modelling with constant decay probability.
+Questions may be set which require students to use
+A=A0e− λt
+Questions may also involve use of molar mass or the
+Avogadro constant.
+Half-life equation:  T½=ln2
+λ
+Determination of half-life from graphical decay data
+including decay curves and log graphs.
+Applications eg relevance to storage of radioactive waste,
+radioactive dating etc.MS 1.3, 3.10, 3.11 / PS 3.1, 3.2
+Investigate the decay equation using
+a variety of approaches (including
+the use of experimental data, dice
+simulations etc) and a variety of
+analytical methods.
+42   Visit for the most up-to-date specification,  resources, support and administration3.8.1.4 Nuclear instability (A-level only)
+Content Opportunities for skills
+development
+Graph of N against Z for stable nuclei.
+Possible decay modes of unstable nuclei including α, β+,
+β− and electron capture.
+Changes in N and Z caused by radioactive decay and
+representation in simple decay equations.
+Questions may use nuclear energy level diagrams.
+Existence of nuclear excited states; γ ray emission;
+application eg use of technetium-99m as a γ source in
+medical diagnosis.
+3.8.1.5 Nuclear radius (A-level only)
+Content Opportunities for skills
+development
+Estimate of radius from closest approach of alpha particles
+and determination of radius from electron diffraction.
+Knowledge of typical values for nuclear radius.
+Students will need to be familiar with the Coulomb
+equation for the closest approach estimate.
+Dependence of radius on nucleon number:
+R=R0A1/3 derived from experimental data.
+Interpretation of equation as evidence for constant density
+of nuclear material.
+Calculation of nuclear density.
+Students should be familiar with the graph of intensity
+against angle for electron diffraction by a nucleus.MS 1.4
+Make order of magnitude
+calculations of the radius of different
+atomic nuclei.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   433.8.1.6 Mass and energy (A-level only)
+Content Opportunities for skills
+development
+Appreciation that E=mc2 applies to all energy changes,
+Simple calculations involving mass difference and binding
+energy.
+Atomic mass unit, u.
+Conversion of units; 1 u = 931.5 MeV .
+Fission and fusion processes.
+Simple calculations from nuclear masses of energy
+released in fission and fusion reactions.
+Graph of average binding energy per nucleon against
+nucleon number.
+Students may be expected to identify, on the plot, the
+regions where nuclei will release energy when undergoing
+fission/fusion.
+Appreciation that knowledge of the physics of nuclear
+energy allows society to use science to inform decision
+making.
+3.8.1.7 Induced fission  (A-level only)
+Content Opportunities for skills
+development
+Fission induced by thermal neutrons; possibility of a chain
+reaction; critical mass.
+The functions of the moderator, control rods, and coolant
+in a thermal nuclear reactor.
+Details of particular reactors are not required.
+Students should have studied a simple mechanical model
+of moderation by elastic collisions.
+Factors affecting the choice of materials for the moderator,
+control rods and coolant. Examples of materials used for
+these functions.
+44   Visit for the most up-to-date specification,  resources, support and administration3.8.1.8 Safety aspects (A-level only)
+Content Opportunities for skills
+development
+Fuel used, remote handling of fuel, shielding, emergency
+shut-down.
+Production, remote handling, and storage of radioactive
+waste materials.
+Appreciation of balance between risk and benefits in the
+development of nuclear power.
+3.9 Astrophysics (A-level only)
+Fundamental physical principles are applied to the study and interpretation of the Universe.
+Students gain deeper insight into the behaviour of objects at great distances from Earth and
+discover the ways in which information from these objects can be gathered. The underlying
+physical principles of the devices used are covered and some indication is given of the new
+information gained by the use of radio astronomy. The discovery of exoplanets is an example of
+the way in which new information is gained by astronomers.
+3.9.1 Telescopes (A-level only)
+3.9.1.1 Astronomical telescope consisting of two converging lenses (A-level only)
+Content
+Ray diagram to show the image formation in normal adjustment.
+Angular magnification in normal adjustment.
+M=angle subtended by image at eye
+angle subtended by object at unaided eye
+Focal lengths of the lenses.
+M= fo
+fe
+3.9.1.2 Reflecting  telescopes (A-level only)
+Content
+Cassegrain arrangement using a parabolic concave primary mirror and convex secondary mirror.
+Ray diagram to show path of rays through the telescope up to the eyepiece.
+Relative merits of reflectors and refractors including a qualitative treatment of spherical and
+chromatic aberration.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   453.9.1.3 Single dish radio telescopes, I-R, U-V and X-ray telescopes (A-level only)
+Content
+Similarities and differences of radio telescopes compared to optical telescopes. Discussion
+should include structure, positioning and use, together with comparisons of resolving and
+collecting powers.
+3.9.1.4 Advantages of large diameter telescopes (A-level only)
+Content
+Minimum angular resolution of telescope.
+Rayleigh criterion, θ ≈λ
+D
+Collecting power is proportional to diameter2.
+Students should be familiar with the rad as the unit of angle.
+Comparison of the eye and CCD as detectors in terms of quantum efficiency, resolution, and
+convenience of use.
+No knowledge of the structure of the CCD is required.
+3.9.2 Classification  of stars (A-level only)
+3.9.2.1 Classification  by luminosity (A-level only)
+Content
+Apparent magnitude, m.
+The Hipparcos scale.
+Dimmest visible stars have a magnitude of 6.
+Relation between brightness and apparent magnitude. Difference of 1 on magnitude scale is
+equal to an intensity ratio of 2.51.
+Brightness is a subjective scale of measurement.
+3.9.2.2 Absolute magnitude, M (A-level only)
+Content
+Parsec and light year.
+Definition of M, relation to m: m–M= 5 logd
+10
+46   Visit for the most up-to-date specification,  resources, support and administration3.9.2.3 Classification  by temperature, black-body radiation (A-level only)
+Content
+Stefan’s law and Wien’s displacement law.
+General shape of black-body curves, use of Wien’s displacement law to estimate black-body
+temperature of sources.
+Experimental verification is not required.
+λmaxT =  constant  =  2.9 × 10−3 m K
+Assumption that a star is a black body.
+Inverse square law, assumptions in its application.
+Use of Stefan’s law to compare the power output, temperature and size of stars
+P= σAT4
+3.9.2.4 Principles of the use of stellar spectral classes (A-level only)
+Description of the main classes:
+Spectral
+classIntrinsic
+colourTemperature / K Prominent absorption lines
+O blue 25 000 – 50 000 He+, He, H
+B blue 11 000 – 25 000 He, H
+A blue-white 7 500 – 11 000 H (strongest)
+ionized metals
+F white 6 000 – 7 500 ionized metals
+G yellow-white 5 000 – 6 000 ionized & neutral metals
+K orange 3 500 – 5 000 neutral metals
+M red < 3 500 neutral atoms, TiO
+Temperature related to absorption spectra limited to Hydrogen Balmer absorption lines:
+requirement for atoms in an n= 2 state.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   473.9.2.5 The Hertzsprung-Russell (HR) diagram (A-level only)
+Content
+General shape: main sequence, dwarfs and giants.
+Axis scales range from –10 to +15 (absolute magnitude) and 50 000 K to 2 500 K (temperature)
+or OBAFGKM (spectral class).
+Students should be familiar with the position of the Sun on the HR diagram.
+Stellar evolution: path of a star similar to our Sun on the HR diagram from formation to white
+dwarf.
+3.9.2.6 Supernovae, neutron stars and black holes (A-level only)
+Content
+Defining properties: rapid increase in absolute magnitude of supernovae; composition and density
+of neutron stars; escape velocity >c for black holes.
+Gamma ray bursts due to the collapse of supergiant stars to form neutron stars or black holes.
+Comparison of energy output with total energy output of the Sun.
+Use of type 1a supernovae as standard candles to determine distances. Controversy concerning
+accelerating Universe and dark energy.
+Students should be familiar with the light curve of typical type 1a supernovae.
+Supermassive black holes at the centre of galaxies.
+Calculation of the radius of the event horizon for a black hole, Schwarzschild radius Rs,
+Rs ≈ 2GM
+c2
+3.9.3 Cosmology (A-level only)
+3.9.3.1 Doppler effect (A-level only)
+Content
+ ∆f
+f= v
+c and z=∆ λ
+λ= −v
+c for v ≪c applied to optical and radio frequencies.
+Calculations on binary stars viewed in the plane of orbit.
+Galaxies and quasars.
+48   Visit for the most up-to-date specification,  resources, support and administration3.9.3.2 Hubble's law (A-level only)
+Content
+Red shift v=Hd
+Simple interpretation as expansion of universe; estimation of age of universe, assuming H is
+constant.
+Qualitative treatment of Big Bang theory including evidence from cosmological microwave
+background radiation, and relative abundance of hydrogen and helium.
+3.9.3.3 Quasars (A-level only)
+Content
+Quasars as the most distant measurable objects.
+Discovery of quasars as bright radio sources.
+Quasars show large optical red shifts; estimation involving distance and power output.
+Formation of quasars from active supermassive black holes.
+3.9.3.4 Detection of exoplanets (A-level only)
+Content
+Difficulties in the direct detection of exoplanets.
+Detection techniques will be limited to variation in Doppler shift (radial velocity method) and the
+transit method.
+Typical light curve.
+3.10 Medical physics (A-level only)
+Students with an interest in biological and medical topics are offered the opportunity to study some
+of the applications of physical principles and techniques in medicine. The physics of the eye and
+ear as sensory organs is discussed. The important and developing field of medical imaging, with
+both non-ionising and ionising radiations is considered. Further uses of ionising radiation are
+developed in a section on radiation therapy.
+3.10.1 Physics of the eye (A-level only)
+3.10.1.1 Physics of vision (A-level only)
+Content
+The eye as an optical refracting system, including ray diagrams of image formation.
+Sensitivity of the eye; spectral response as a photodetector.
+Spatial resolution of the eye; explanation in terms of the behaviour of rods and cones.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   493.10.1.2 Defects of vision and their correction using lenses (A-level only)
+Content
+Properties of converging and diverging lenses; principal focus, focal length and power,
+power = 1
+f;  1
+u+1
+v=1
+f;m=v
+u
+Myopia, hypermetropia, astigmatism.
+Ray diagrams and calculations of powers (in dioptres) of correcting lenses for myopia and
+hypermetropia.
+The format of prescriptions for astigmatism.
+3.10.2 Physics of the ear (A-level only)
+3.10.2.1 Ear as a sound detection system (A-level only)
+Content
+Simple structure of the ear, transmission processes.
+3.10.2.2 Sensitivity and frequency response (A-level only)
+Content
+Production and interpretation of equal loudness curves.
+Human perception of relative intensity levels and the need for a logarithmic scale to reflect this.
+Definition of intensity.
+Intensity  level = 10 logI
+I0 where the threshold of hearing I0=1.0 × 10−12 W m−2
+Measurement of sound intensity levels and the use of dB and dBA scales; relative intensity levels
+of sounds.
+3.10.2.3 Defects of hearing (A-level only)
+Content
+The effect on equal loudness curves and the changes experienced in terms of hearing loss due to
+injury resulting from exposure to excessive noise or deterioration with age (excluding
+physiological changes).
+50   Visit for the most up-to-date specification,  resources, support and administration3.10.3 Biological measurement (A-level only)
+3.10.3.1 Simple ECG machines and the normal ECG waveform (A-level only)
+Content
+Principles of operation for obtaining the ECG waveform; explanation of the characteristic shape of
+a normal ECG waveform.
+3.10.4 Non-ionising imaging (A-level only)
+3.10.4.1 Ultrasound imaging (A-level only)
+Content
+Reflection and transmission characteristics of sound waves at tissue boundaries, acoustic
+impedance, Z, and attenuation.
+Advantages and disadvantages of ultrasound imaging in comparison with alternatives including
+safety issues and resolution.
+Piezoelectric devices
+Principles of generation and detection of ultrasound pulses.
+A-scans and B-scans.
+Examples of applications.
+Use of the equations Z =  ρ c and Ir
+Ii= Z2 − Z1
+Z2 + Z12
+3.10.4.2 Fibre optics and endoscopy (A-level only)
+Content
+Properties of fibre optics and applications in medical physics; including total internal reflection at
+the core–cladding interface.
+Physical principles of the optical system of a flexible endoscope; the use of coherent and non-
+coherent fibre bundles; examples of use for internal imaging and related advantages.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   513.10.4.3 Magnetic resonance (MR) scanner (A-level only)
+Content
+Basic principles of MR scanner;
+• cross-section of patient scanned using magnetic fields
+• protons initially aligned with spins parallel
+• spinning hydrogen nuclei (protons) precess about the magnetic field lines of a
+superconducting magnet
+• 'gradient' field coils used to scan cross-section
+• short radio frequency (RF) pulses cause excitation and change of spin state in successive
+small regions
+• protons excited during the scan emit RF signals as they de-excite
+• RF signals detected and the resulting signals are processed by a computer to produce a
+visual image.
+Students will not be asked about the production of magnetic fields used in an MR scanner, or
+about de-excitation relaxation times.
+3.10.5 X-ray imaging (A-level only)
+3.10.5.1 The physics of diagnostic X-rays (A-level only)
+Content
+Physical principles of the production of X-rays; maximum photon energy, energy spectrum;
+continuous spectrum and characteristic spectrum.
+Rotating-anode X-ray tube; methods of controlling the beam intensity, the photon energy, the
+image sharpness and contrast, and the patient dose.
+3.10.5.2 Image detection and enhancement (A-level only)
+Content
+Flat panel (FTP) detector including X-ray scintillator, photodiode pixels, electronic scanning.
+Advantages of FTP detector compared with photographic detection.
+Contrast enhancement; use of X-ray opaque material as illustrated by the barium meal technique.
+Photographic detection with intensifying screen and fluoroscopic image intensification; reasons
+for using these.
+52   Visit for the most up-to-date specification,  resources, support and administration3.10.5.3 Absorption of X-rays (A-level only)
+Content
+Exponential attenuation.
+Linear coefficient μ, mass attenuation coefficient μm, half-value thickness
+I =  I0  e− μx   μm=μ
+ρ
+Differential tissue absorption of X-rays excluding details of the absorption processes.
+3.10.5.4 CT scanner (A-level only)
+Content
+Basic principles of CT scanner:
+• movement of X-ray tube
+• narrow, monochromatic X-ray beam
+• array of detectors
+• computer used to process the signals and produce a visual image.
+Comparisons will be limited to advantages and disadvantages of image resolution, cost and
+safety issues. Students will not be asked about the construction or operation of the detectors.
+3.10.6 Radionuclide imaging and therapy (A-level only)
+3.10.6.1 Imaging techniques (A-level only)
+Content
+Use of a gamma-emitting radioisotope as a tracer; technetium-99 m, iodine-131 and indium-111
+and their relevant properties.
+The properties should include the radiation emitted, the half-life, the energy of the gamma
+radiation, the ability for it to be labelled with a compound with an affinity for a particular organ.
+The Molybdenum-Technetium generator, its basic use and importance.
+PET scans.
+3.10.6.2 Half-life (A-level only)
+Content
+Physical, biological and effective half-lives; 1
+TE = 1
+TB+ 1
+TP ; definitions of each term.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   533.10.6.3 Gamma camera (A-level only)
+Content
+Basic structure and workings of a photomultiplier tube and gamma camera.
+3.10.6.4 Use of high-energy X-rays (A-level only)
+Content
+External treatment using high-energy X-rays. Methods used to limit exposure to healthy cells.
+3.10.6.5 Use of radioactive implants (A-level only)
+Content
+Internal treatment using beta emitting implants.
+3.10.6.6 Imaging comparisons (A-level only)
+Content
+Students will be required to make comparisons between imaging techniques. Questions will be
+limited to consideration of image resolution, convenience and safety issues.
+3.11 Engineering physics (A-level only)
+This option offers opportunities for students to reinforce and extend the work of core units by
+considering applications in areas of engineering and technology. It extends the student’s
+understanding in areas of rotational dynamics and thermodynamics. The emphasis in this option is
+on an understanding of the concepts and the application of physics. Questions can be set in novel
+or unfamiliar contexts, but in such cases the scene is set and any relevant required information is
+given.
+3.11.1 Rotational dynamics (A-level only)
+3.11.1.1 Concept of moment of inertia (A-level only)
+Content
+I=mr2 for a point mass. I= Σmr2for an extended object.
+Qualitative knowledge of the factors that affect the moment of inertia of a rotating object.
+Expressions for moment of inertia will be given where necessary.
+54   Visit for the most up-to-date specification,  resources, support and administration3.11.1.2 Rotational kinetic energy (A-level only)
+Content
+Ek=1
+2I ω2
+Factors affecting the energy storage capacity of a flywheel.
+Use of flywheels in machines.
+Use of flywheels for smoothing torque and speed, and for storing energy in vehicles, and in
+machines used for production processes.
+3.11.1.3 Rotational motion (A-level only)
+Content
+Angular displacement, angular speed, angular velocity, angular acceleration, ω=∆ θ
+∆t , α=∆ ω
+∆t
+Representation by graphical methods of uniform and non-uniform angular acceleration.
+Equations for uniform angular acceleration;
+ω2 =  ω1  + αt,  θ   =   ω1+ ω2
+2t 
+θ= ω1t+αt2
+2, ω22= ω12+ 2 αθ
+Students should be aware of the analogy between rotational and translational dynamics.
+3.11.1.4 Torque and angular acceleration (A-level only)
+Content
+T=Fr
+T=I α
+3.11.1.5 Angular momentum (A-level only)
+Content
+angular momentum =I ω
+Conservation of angular momentum.
+Angular impulse = change in angular momentum; T ∆t= ∆I ω where T is constant.
+Applications may include examples from sport.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   553.11.1.6 Work and power (A-level only)
+Content
+W=T θ;  P=T ω
+Awareness that frictional torque has to be taken into account in rotating machinery.
+3.11.2 Thermodynamics and engines (A-level only)
+3.11.2.1 First law of thermodynamics (A-level only)
+Content
+Quantitative treatment of first law of thermodynamics, Q= ∆U+W
+where Q is energy transferred to the system by heating, ∆U is increase in internal energy and W
+is work done by the system.
+Applications of first law of thermodynamics.
+3.11.2.2 Non-flow  processes (A-level only)
+Content
+Isothermal, adiabatic, constant pressure and constant volume changes.
+pV = nRT
+adiabatic change  : pVγ = constant
+isothermal change  : pV = constant
+at constant pressure W =  p ΔV
+Application of first law of thermodynamics to the above processes.
+3.11.2.3 The p–V diagram (A-level only)
+Content
+Representation of processes on p–V diagram.
+Estimation of work done in terms of area below the graph.
+Extension to cyclic processes: work done per cycle = area of loop
+Expressions for work done are not required except for the constant pressure case, W =  p ΔV
+56   Visit for the most up-to-date specification,  resources, support and administration3.11.2.4 Engine cycles (A-level only)
+Content
+Understanding of a four-stroke petrol engine cycle and a diesel engine cycle, and of the
+corresponding indicator diagrams.
+Comparison with the theoretical diagrams for these cycles; use of indicator diagrams for
+predicting and measuring power and efficiency
+input power =calorific value ×fuel flow rate
+Indicated power as area of p −V loop ×no. of cycles per second ×no. of cylinders
+Output or brake power,  P=T ω
+friction power = indicated power – brake power
+Engine efficiency; overall, thermal and mechanical efficiencies.
+Overall efficiency =brake power
+input power
+Thermal efficiency = indicated power
+input power
+Mechanical efficiency = brake power
+indicated power
+A knowledge of engine constructional details is not required.
+Questions may be set on other cycles, but they will be interpretative and all essential information
+will be given.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   573.11.2.5 Second Law and engines (A-level only)
+Content
+Impossibility of an engine working only by the First Law.
+Second Law of Thermodynamics expressed as the need for a heat engine to operate between a
+source and a sink.
+efficiency  = W
+QH= QH −QC
+QH
+maximum theoretical efficiency  = TH − TC
+TH
+Reasons for the lower efficiencies of practical engines.
+Maximising use of W and QH for example in combined heat and power schemes.
+58   Visit for the most up-to-date specification,  resources, support and administration3.11.2.6 Reversed heat engines (A-level only)
+Content
+Basic principles and uses of heat pumps and refrigerators.
+A knowledge of practical heat pumps or refrigerator cycles and devices is not required.
+Coefficients of performance:
+refrigerator: COP ref=QC
+W=QC
+QH −QC= TC
+TH −TC
+heat pump: COP hp=QH
+W=QH
+QH −QC= TH
+TH −TC
+3.12 Turning points in physics (A-level only)
+This option is intended to enable key concepts and developments in physics to be studied in
+greater depth than in the core content. Students will be able to appreciate, from historical and
+conceptual viewpoints, the significance of major paradigm shifts for the subject in the perspectives
+of experimentation and understanding. Many present-day technological industries are the
+consequence of these key developments and the topics in the option illustrate how unforeseen
+technologies can develop from new discoveries.
+3.12.1 The discovery of the electron (A-level only)
+3.12.1.1 Cathode rays (A-level only)
+Content
+Production of cathode rays in a discharge tube.
+3.12.1.2 Thermionic emission of electrons (A-level only)
+Content
+The principle of thermionic emission.
+Work done on an electron accelerated through a pd V ; 1
+2mv2=eVAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   593.12.1.3 Specific  charge of the electron (A-level only)
+Content
+Determination of the specific charge of an electron, e
+me, by any one method.
+Significance of Thomson’s determination of e
+me
+Comparison with the specific charge of the hydrogen ion.
+3.12.1.4 Principle of Millikan’s determination of the electronic charge, e (A-level only)
+Content
+Condition for holding a charged oil droplet, of charge Q, stationary between oppositely charged
+parallel plates.
+QV
+d = mg
+Motion of a falling oil droplet with and without an electric field; terminal speed to determine the
+mass and the charge of the droplet.
+Stokes’ Law for the viscous force on an oil droplet used to calculate the droplet radius.
+F= 6 π ηrv
+Significance of Millikan’s results.
+Quantisation of electric charge.
+3.12.2 Wave-particle duality (A-level only)
+3.12.2.1 Newton’s corpuscular theory of light (A-level only)
+Content
+Comparison with Huygens’ wave theory in general terms.
+The reasons why Newton’s theory was preferred.
+3.12.2.2 Significance  of Young’s double slits experiment (A-level only)
+Content
+Explanation for fringes in general terms, no calculations are expected.
+Delayed acceptance of Huygens’ wave theory of light.
+60   Visit for the most up-to-date specification,  resources, support and administration3.12.2.3 Electromagnetic waves (A-level only)
+Content
+Nature of electromagnetic waves.
+Maxwell’s formula for the speed of electromagnetic waves in a vacuum c=1
+μ0 ε0
+where μ0 is the permeability of free space and ε0 is the permittivity of free space.
+Students should appreciate that ε0 relates to the electric field strength due to a charged object in
+free space and μ0 relates to the magnetic flux density due to a current-carrying wire in free space.
+Hertz’s discovery of radio waves including measurements of the speed of radio waves.
+Fizeau’s determination of the speed of light and its implications.
+3.12.2.4 The discovery of photoelectricity (A-level only)
+Content
+The ultraviolet catastrophe and black-body radiation.
+Planck’s interpretation in terms of quanta.
+The failure of classical wave theory to explain observations on photoelectricity.
+Einstein’s explanation of photoelectricity and its significance in terms of the nature of
+electromagnetic radiation.
+3.12.2.5 Wave–particle duality (A-level only)
+Content
+de Broglie’s hypothesis: p=h
+λ ;
+λ=h
+2meV 
+Low-energy electron diffraction experiments; qualitative explanation of the effect of a change of
+electron speed on the diffraction pattern.
+3.12.2.6 Electron microscopes (A-level only)
+Content
+Estimate of anode voltage needed to produce wavelengths of the order of the size of the atom.
+Principle of operation of the transmission electron microscope (TEM).
+Principle of operation of the scanning tunnelling microscope (STM).AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   613.12.3 Special relativity (A-level only)
+3.12.3.1 The Michelson-Morley experiment (A-level only)
+Content
+Principle of the Michelson-Morley interferometer.
+Outline of the experiment as a means of detecting absolute motion.
+Significance of the failure to detect absolute motion.
+The invariance of the speed of light.
+3.12.3.2 Einstein’s theory of special relativity (A-level only)
+Content
+The concept of an inertial frame of reference.
+The two postulates of Einstein’s theory of special relativity:
+1.physical laws have the same form in all inertial frames
+2.the speed of light in free space is invariant.
+3.12.3.3 Time dilation (A-level only)
+Content
+Proper time and time dilation as a consequence of special relativity.
+Time dilation:
+t=t0
+1 −v2
+c2 
+Evidence for time dilation from muon decay.
+3.12.3.4 Length contraction (A-level only)
+Content
+Length of an object having a speed v
+l=l01 −v2
+c2
+62   Visit for the most up-to-date specification,  resources, support and administration3.12.3.5 Mass and energy (A-level only)
+Content
+Equivalence of mass and energy, E=mc2 ; E=m0c2
+1 −v2
+c2
+Graphs of variation of mass and kinetic energy with speed.
+Bertozzi’s experiment as direct evidence for the variation of kinetic energy with speed.
+3.13 Electronics (A-level only)
+This option is designed for those who wish to learn more about modern electronic technologies as
+a development of their core work in electricity. A variety of discrete devices is introduced followed
+by discussions of both analogue and digital techniques ranging from the operational amplifier to
+digital signal processing. The option ends with a look at the issues surrounding data
+communication.
+3.13.1 Discrete semiconductor devices (A-level only)
+3.13.1.1 MOSFET (metal-oxide semiconducting field-effect  transistor) (A-level only)
+Content
+Simplified structure, behaviour and characteristics.
+Drain, source and gate.
+VDS, VGS, IDSS, and Vth
+Use as a switch, use as a device with a very high input resistance.
+Use in N-channel, enhancement mode only is required.
+3.13.1.2 Zener diode (A-level only)
+Content
+Characteristic curve showing zener breakdown voltage and typical minimum operating current.
+Anode and cathode.
+Use with a resistor as a constant voltage source.
+Use to provide a reference voltage.
+Use as a stabiliser is not required.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   633.13.1.3 Photodiode (A-level only)
+Content
+Characteristic curves and spectral response curves.
+Use in photo-conductive mode as a detector in optical systems.
+Use with scintillator to detect atomic particles.
+3.13.1.4 Hall effect sensor (A-level only)
+Content
+Use as magnetic field sensor to monitor attitude.
+Use in tachometer.
+Principles of operation are not required.
+3.13.2 Analogue and digital signals (A-level only)
+3.13.2.1 Difference between analogue and digital signals (A-level only)
+Content
+Bits, bytes.
+Analogue-to-digital conversion:
+• sampling audio signals for transmission in digital form
+• conversion of analogue signals into digital data using two voltage levels
+• quantisation
+• sampling rate
+• effect of sampling rate and number of bits per sample on quality of conversion
+• advantages and disadvantages of digital sampling
+• process of recovery of original data from noisy signal
+• effect of noise in communication systems.
+Pulse code modulation.
+Students should appreciate the use of a variety of sensors to collect analogue data.
+The ability to carry out binary arithmetic is not required. Knowledge of binary numbers 1 to 10 is
+adequate.
+64   Visit for the most up-to-date specification,  resources, support and administration3.13.3 Analogue signal processing (A-level only)
+3.13.3.1 LC resonance filters  (A-level only)
+Content
+Resonant frequency, f0=1
+2 πLC
+Only parallel resonance arrangements are required.
+Analogy between LC circuit and mass–spring system.
+Inductance as mass analogy.
+Capacitance as spring analogy.
+Derivation of the equation is not required.
+Energy (voltage) response curve.
+The response curve for current is not required.
+Q factor, Q=f0
+fB
+fB is the bandwidth of the filter at the 50% energy points.
+3.13.3.2 The ideal operational amplifier  (A-level only)
+Content
+Operation and characteristics of an ideal operational amplifier:
+• power supply and signal connections
+• infinite open-loop gain
+• infinite input resistance.
+Open-loop transfer function for a real operational amplifier, Vout=AOLV+ −V −
+Use as a comparator.
+The operational amplifier should be treated as an important system building block.
+3.13.4 Operational amplifier  in:
+3.13.4.1 inverting amplifier  configuration  (A-level only)
+Content
+Derivation of  Vout
+Vin= −Rf
+Rin , calculations.
+Meaning of virtual earth, virtual-earth analysis.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   653.13.4.2 non-inverting amplifier  configuration  (A-level only)
+Content
+Vout
+Vin= 1 +Rf
+Rl
+Derivation is not required.
+3.13.4.3 summing amplifier  configuration  (A-level only)
+Content
+Vout= −RfV1
+R1+V2
+R2+V3
+R3+ …
+Difference amplifier configuration.
+Derivation is not required.
+Vout=V+ −V −Rf
+Rl
+Derivation is not required.
+3.13.4.4 Real operational amplifiers  (A-level only)
+Content
+Limitations of real operational amplifiers.
+Frequency response curve.
+gain ×bandwidth =constant  for a given device.
+3.13.5 Digital signal processing (A-level only)
+3.13.5.1 Combinational logic (A-level only)
+Content
+Use of Boolean algebra related to truth tables and logic gates.
+A−= not A
+A ∙B=A and B
+A+B=A or B
+Identification and use of AND, NAND, OR, NOR, NOT and EOR gates in combination in logic
+circuits.
+Construction and deduction of a logic circuit from a truth table.
+The gates should be treated as building blocks. The internal structure or circuit of the gates is not
+required.
+66   Visit for the most up-to-date specification,  resources, support and administration3.13.5.2 Sequential logic (A-level only)
+Content
+Counting circuits:
+• Binary counter
+• BCD counter
+• Johnson counter.
+Inputs to the circuits, clock, reset, up/down.
+Outputs from the circuits.
+Modulo- n counter from basic counter with the logic driving a reset pin.
+The gates should be treated as building blocks. The internal structure or circuit of the gates is not
+required.
+3.13.5.3 Astables (A-level only)
+Content
+The astable as an oscillator to provide a clock pulse.
+Clock (pulse) rate (frequency), pulse width, period, duty cycle, mark-to-space ratio.
+Variation of running frequency using an external RC network.
+Knowledge of a particular circuit or a specific device (eg 555 chip) will not be required.
+3.13.6 Data communication systems (A-level only)
+3.13.6.1 Principles of communication systems (A-level only)
+Content
+Communication systems, block diagram of 'real time' communication system.
+Only the purpose of each stage is required.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   673.13.6.2 Transmission media (A-level only)
+Content
+Transmission-path media: metal wire, optic fibre, electromagnetic (radio, microwave).
+Ground wave, refraction and reflection of sky waves, diffraction of long-wavelength radiation
+around the Earth’s surface.
+Satellite systems and typical transmission frequencies.
+Students should recognise that up- and down-links require different frequencies so that the
+receivers are not de-sensed.
+Advantages and disadvantages of various transmission media. Students should consider data
+transmission rate, cost, and security issues.
+3.13.6.3 Time-division multiplexing (A-level only)
+Content
+Basic principles of time-division multiplexing.
+3.13.6.4 Amplitude (AM) and frequency modulation (FM) techniques (A-level only)
+Content
+Principles of modulation; bandwidth.
+Carrier wave and information signal.
+Details of modulation circuits for modulating a carrier signal with the information signal will not be
+required.
+Graphical representation of both AM and FM modulated signals.
+A detailed mathematical treatment is not required.
+Students will be expected to identify the carrier frequency and the information frequency from a
+graph of the variation of signal voltage with time.
+Bandwidth requirements of simple AM and FM:
+bandwidth = 2fM for AM
+bandwidth = 2 ∆f+fM for FM
+Data capacity of a channel.
+Comparison of bandwidth availability for various media.
+68   Visit for the most up-to-date specification,  resources, support and administration4 Scheme of assessment
+Find past papers and mark schemes, and specimen papers for new courses, on our website at 
+aqa.org.uk/pastpapers
+The AS specification is designed to be taken over one or two years with all assessments taken at
+the end of the course. The A-level specification is designed to be taken over two years with all
+assessments taken at the end of the course.
+Assessments and certification for the AS specification are available for the first time in May/June 
+and then every May/June for the life of the specification.
+Assessments and certification for the A-level specification are available for the first time in May/
+June and then every May/June for the life of the specification.
+These are linear qualifications. In order to achieve the award, students must complete all exams in
+May/June in a single year. All assessments must be taken in the same series.
+Questions for these specifications will be set which require students to demonstrate:
+• their knowledge and understanding of the content developed in one section or topic,
+including the associated mathematical and practical skills or
+• the ability to apply mathematical and practical skills to areas of content they are not normally
+developed in or
+• the ability to draw together different areas of knowledge and understanding within one
+answer.
+A range of question types will be used, including those that require extended responses. Extended
+response questions will allow students to demonstrate their ability to construct and develop a
+sustained line of reasoning which is coherent, relevant, substantiated and logically structured.
+Extended responses may be in written English, extended calculations, or a combination of both, as
+appropriate to the question.
+All materials are available in English only.
+4.1 Aims
+Courses based on these specifications should encourage students to:
+• develop their interest in and enthusiasm for the subject, including developing an interest in
+further study and careers associated with the subject
+• develop essential knowledge and understanding of different areas of the subject and how
+they relate to each other
+• develop and demonstrate a deep appreciation of the skills, knowledge and understanding of
+scientific methods
+• develop competence and confidence in a variety of practical, mathematical and problem
+solving skills
+• understand how society makes decisions about scientific issues and how the sciences
+contribute to the success of the economy and society
+• use theories, models and ideas to develop scientific explanations
+• use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideasAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   69• use appropriate methodology, including information and communication technology (ICT), to
+answer scientific questions and solve scientific problems
+• carry out experimental and investigative activities, including appropriate risk management, in
+a range of contexts
+• analyse and interpret data to provide evidence, recognising correlations and causal
+relationships
+• evaluate methodology, evidence and data, and resolve conflicting evidence
+• know that scientific knowledge and understanding develops over time
+• communicate information and ideas in appropriate ways using appropriate terminology
+• consider applications and implications of science and evaluate their associated benefits and
+risks
+• consider ethical issues in the treatment of humans, other organisms and the environment
+• evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity
+• evaluate the ways in which society uses science to inform decision making.
+4.2 Assessment objectives
+Assessment objectives (AOs) are set by Ofqual and are the same across all AS and A-level
+Physics specifications and all exam boards.
+The exams will measure how students have achieved the following assessment objectives.
+• AO1: Demonstrate knowledge and understanding of scientific ideas, processes, techniques
+and procedures.
+• AO2: Apply knowledge and understanding of scientific ideas, processes, techniques and
+procedures:
+• in a theoretical context
+• in a practical context
+• when handling qualitative data
+• when handling quantitative data.
+• AO3: Analyse, interpret and evaluate scientific information, ideas and evidence, including in
+relation to issues, to:
+• make judgements and reach conclusions
+• develop and refine practical design and procedures.
+Weighting of assessment objectives for AS Physics
+Assessment objectives (AOs) Component weightings
+(approx %)Overall
+weighting
+(approx %)Paper 1 Paper 2
+AO1 34 37 36
+AO2 41 39 40
+AO3 24 24 24
+Overall weighting of components 50 50 100
+40% of the overall assessment of AS Physics will contain mathematical skills equivalent to Level 2
+or above.
+70   Visit for the most up-to-date specification,  resources, support and administrationAt least 15% of the overall assessment of AS Physics will assess knowledge, skills and
+understanding in relation to practical work.
+Weighting of assessment objectives for A-level Physics
+Assessment objectives (AOs) Component weightings
+(approx %)Overall weighting
+(approx %)
+Paper 1 Paper 2 Paper 3
+AO1 34 32 31 33
+AO2 38 53 35 42
+AO3 28 15 32 25
+Overall weighting of components 34 34 32 100
+40% of the overall assessment of A-level Physics will contain mathematical skills equivalent to
+Level 2 or above.
+At least 15% of the overall assessment of A-level Physics will assess knowledge, skills and
+understanding in relation to practical work.
+4.3 Assessment weightings
+The marks awarded on the papers will be scaled to meet the weighting of the components.
+Students' final marks will be calculated by adding together the scaled marks for each component.
+Grade boundaries will be set using this total scaled mark. The scaling and total scaled marks are
+shown in the table below.
+AS
+Component Maximum raw mark Scaling factor Maximum scaled mark
+Paper 1 70 x1 70
+Paper 2 70 x1 70
+Total scaled mark: 140AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   71A-level
+Component Maximum
+raw markScaling
+factorMaximum
+scaled mark
+Paper 1 85 x1 85
+Paper 2 85 x1 85
+Paper 3: Section A 45 x1 45
+Paper 3: Section B (Astrophysics - option) 35 x1 35
+Paper 3: Section B (Medical physics - option) 35 x1 35
+Paper 3: Section B (Engineering physics - option) 35 x1 35
+Paper 3: Section B (Turning points in physics -
+option)35 x1 35
+Paper 3: Section B (Electronics - option) 35 x1 35
+Total scaled
+mark:250
+72   Visit for the most up-to-date specification,  resources, support and administration5 General administration
+You can find information about all aspects of administration, as well as all the forms you need, at 
+aqa.org.uk/examsadmin
+5.1 Entries and codes
+You only need to make one entry for each qualification.
+Every specification is given a national discount (classification) code by the Department for
+Education (DfE), which indicates its subject area.
+If a student takes two specifications with the same discount code, Further and Higher Education
+providers are likely to take the view that they have only achieved one of the two qualifications.
+Please check this before your students start their course.
+Qualification  title AQA entry code DfE discount code
+AQA Advanced Subsidiary GCE in Physics 7407 1210 (post-16),
+RC1 (KS4)
+AQA Advanced Level GCE in Physics 7408A
+(Astrophysics)1210
+7408B (Medical
+physics)1210
+7408C
+(Engineering
+physics)1210
+7408D (Turning
+points in physics)1210
+7408E
+(Electronics)1210
+These specifications comply with Ofqual’s:
+•General conditions of recognition  that apply to all regulated qualifications
+• GCE qualification level conditions that apply to all GCEs
+• GCE subject level conditions that apply to all GCEs in this subject
+• all relevant regulatory documents.
+Ofqual has accredited these specifications. The qualification accreditation number (QAN) for the
+AS is 601/4746/5. The QAN for the A-level is 601/4747/7.
+5.2 Overlaps with other qualifications
+There is overlapping content in the AS and A-level Physics specifications. This helps you teach the
+AS and A-level together.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   735.3 Awarding grades and reporting results
+The A-level qualification will be graded on a six-point scale: A*, A, B, C, D and E.
+Students who fail to reach the minimum standard for grade E will be recorded as U (unclassified)
+and will not receive a qualification certificate.
+5.4 Re-sits and shelf life
+Students can re-sit these qualifications as many times as they wish, within the shelf life of the
+qualifications.
+5.5 Previous learning and prerequisites
+There are no previous learning requirements. Any requirements for entry to a course based on
+these specifications are at the discretion of schools and colleges.
+However, we recommend that students should have the skills and knowledge associated with at
+least GCSE Combined Science or GCSE Physics (or equivalent qualifications).
+5.6 Access to assessment: diversity and inclusion
+General qualifications are designed to prepare students for a wide range of occupations and
+further study. Therefore our qualifications must assess a wide range of competences.
+The subject criteria have been assessed to see if any of the skills or knowledge required present
+any possible difficulty to any students, whatever their ethnic background, religion, sex, age,
+disability or sexuality. If any difficulties were encountered, the criteria were reviewed again to make
+sure that tests of specific competences were only included if they were important to the subject.
+As members of the Joint Council for Qualifications (JCQ) we participate in the production of the
+JCQ document Access Arrangements and Reasonable Adjustments: General and Vocational
+qualifications . We follow these guidelines when assessing the needs of individual students who
+may require an access arrangement or reasonable adjustment. This document is published on the
+JCQ website at jcq.org.uk
+Students with disabilities and special needs
+We can make arrangements for disabled students and students with special needs to help them
+access the assessments, as long as the competences being tested are not changed. Access
+arrangements must be agreed before  the assessment. For example, a Braille paper would be a
+reasonable adjustment for a Braille reader but not for a student who does not read Braille.
+We are required by the Equality Act 2010 to make reasonable adjustments to remove or lessen
+any disadvantage that affects a disabled student.
+If you have students who need access arrangements or reasonable adjustments, you can apply
+using the Access arrangements online service at aqa.org.uk/eaqa
+74   Visit for the most up-to-date specification,  resources, support and administrationSpecial consideration
+We can give special consideration to students who have been disadvantaged at the time of the
+assessment through no fault of their own – for example a temporary illness, injury or serious
+problem such as the death of a relative. We can only do this after  the assessment.
+Your exams officer should apply online for special consideration at aqa.org.uk/eaqa
+For more information and advice about access arrangements, reasonable adjustments and special
+consideration please see aqa.org.uk/access or email accessarrangementsqueries@aqa.org.uk
+5.7 Working with AQA for the first time
+If your school or college has not previously offered any AQA specification, you need to register as
+an AQA centre to offer our specifications to your students. Find out how at aqa.org.uk/
+becomeacentre
+If your school or college is new to these specifications, please let us know by completing an
+Intention to enter form. The easiest way to do this is via e-AQA at aqa.org.uk/eaqa
+5.8 Private candidates
+A private candidate is someone who enters for exams through an AQA-approved school or college
+but is not enrolled as a student there.
+If you are a private candidate you may be self-taught, home-schooled or have private tuition, either
+with a tutor or through a distance learning organisation. You must be based in the UK.
+If you have any queries as a private candidate, you can:
+• speak to the exams officer at the school or college where you intend to take your exams
+• visit our website at aqa.org.uk/examsadmin
+• email: privatecandidates@aqa.org.ukAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   7576   Visit for the most up-to-date specification,  resources, support and administration6 Mathematical requirements
+and exemplifications
+In order to be able to develop their skills, knowledge and understanding in physics, students need
+to have been taught, and to have acquired competence in, the appropriate areas of mathematics
+as indicated in the table of coverage below.
+Overall, at least 40% of the marks in assessments for physics will require the use of mathematical
+skills. These skills will be applied in the context of Physics A-level and will be at least the standard
+of higher tier GCSE Mathematics.
+The following tables illustrate where these mathematical skills may be developed during teaching
+or could be assessed. Those shown in bold type  would only be tested in the full A-level course.
+This list of examples is not exhaustive. These skills could be developed or assessed in other areas
+of specification content. Other areas where these skills could be developed have been exemplified
+throughout the specifications.
+6.1 Arithmetic and numerical computation
+Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 0.1 Recognise and make use of
+appropriate units in calculationsStudents may be tested on their ability to:
+• identify the correct units for physical
+properties such as m s−1, the unit for velocity
+• convert between units with different prefixes
+eg cm3 to m3
+MS 0.2 Recognise and use expressions in
+decimal and standard formStudents may be tested on their ability to:
+• use physical constants expressed in
+standard form such as c =  3.00 x 108
+m s−1
+MS 0.3 Use ratios, fractions and
+percentagesStudents may be tested on their ability to:
+• calculate efficiency of devices
+• calculate percentage uncertainties in
+measurements
+MS 0.4 Estimate results Students may be tested on their ability to:
+• estimate the effect of changing experimental
+parameters on measurable valuesAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   77Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 0.5 Use calculators to find and use
+power, exponential and
+logarithmic functionsStudents may be tested on their ability to:
+•solve for unknowns in decay problems
+such as  N  =   N0e− λt
+MS 0.6 Use calculators to handle sin x,
+cos x, tan x when x is expressed
+in degrees or radiansStudents may be tested on their ability to:
+• calculate the direction of resultant vectors
+6.2 Handling data
+Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 1.1 Use an appropriate number of
+significant figuresStudents may be tested on their ability to:
+• report calculations to an appropriate number
+of significant figures given raw data quoted to
+varying numbers of significant figures
+• understand that calculated results can only
+be reported to the limits of the least accurate
+measurement
+MS 1.2 Find arithmetic means Students may be tested on their ability to:
+• calculate a mean value for repeated
+experimental readings
+MS 1.3 Understand simple probability Students may be tested on their ability to:
+• understand probability in the context of
+radioactive decay
+MS 1.4 Make order of magnitude
+calculationsStudents may be tested on their ability to:
+• evaluate equations with variables expressed
+in different orders of magnitude
+MS 1.5 Identify uncertainties in
+measurements and use simple
+techniques to determine
+uncertainty when data are
+combined by addition, subtraction,
+multiplication, division and raising
+to powersStudents may be tested on their ability to:
+• determine the uncertainty where two
+readings for length need to be added
+together
+78   Visit for the most up-to-date specification,  resources, support and administration6.3 Algebra
+Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 2.1 Understand and use the symbols:
+=, <, <<, >>, >, ∝, ≈, ∆Students may be tested on their ability to:
+• recognise the significance of the symbols in
+the expression F ∝ ∆p
+∆t
+MS 2.2 Change the subject of an
+equation, including non-linear
+equationsStudents may be tested on their ability to:
+•rearrange E =  mc2 to make m the subject
+MS 2.3 Substitute numerical values into
+algebraic equations using
+appropriate units for physical
+quantitiesStudents may be tested on their ability to:
+•calculate the momentum p of an object by
+substituting the values for mass m and
+velocity v into the equation p =  mv
+MS 2.4 Solve algebraic equations,
+including quadratic equationsStudents may be tested on their ability to:
+• solve kinematic equations for constant
+acceleration such as v =  u +  at and
+s =  ut +  ½ at2
+MS 2.5 Use logarithms in relation to
+quantities that range over
+several orders of magnitudeStudents may be tested on their ability to:
+•recognise and interpret real world
+examples of logarithmic scales
+6.4 Graphs
+Mathematical skills Exemplification of mathematical skill in the
+context of A level Physics
+MS 3.1 Translate information between
+graphical, numerical and algebraic
+formsStudents may be tested on their ability to:
+• calculate Young modulus for materials using
+stress–strain graphs
+MS 3.2 Plot two variables from
+experimental or other dataStudents may be tested on their ability to:
+• plot graphs of extension of a wire against
+force appliedAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   79Mathematical skills Exemplification of mathematical skill in the
+context of A level Physics
+MS 3.3 Understand that y = mx + c
+represents a linear relationshipStudents may be tested on their ability to:
+•rearrange and compare v =  u +  at with
+y =  mx +  c for velocity–time graph in
+constant acceleration problems
+MS 3.4 Determine the slope and intercept
+of a linear graphStudents may be tested on their ability to:
+• read off and interpret intercept point from a
+graph eg the initial velocity in a velocity–time
+graph
+MS 3.5 Calculate rate of change from a
+graph showing a linear relationshipStudents may be tested on their ability to:
+• calculate acceleration from a linear velocity–
+time graph
+MS 3.6 Draw and use the slope of a
+tangent to a curve as a measure of
+rate of changeStudents may be tested on their ability to:
+• draw a tangent to the curve of a
+displacement–time graph and use the
+gradient to approximate the velocity at a
+specific time
+MS 3.7 Distinguish between instantaneous
+rate of change and average rate of
+changeStudents may be tested on their ability to:
+• understand that the gradient of the tangent of
+a displacement–time graph gives the velocity
+at a point in time which is a different measure
+to the average velocity
+MS 3.8 Understand the possible physical
+significance of the area between a
+curve and the x axis and be able
+to calculate it or estimate it by
+graphical methods as appropriateStudents may be tested on their ability to:
+• recognise that for a capacitor the area under
+a voltage–charge graph is equivalent to the
+energy stored
+MS 3.9 Apply the concepts underlying
+calculus (but without requiring the
+explicit use of derivatives or
+integrals) by solving equations
+involving rates of change, eg
+Δx
+Δt= – λx using a graphical
+method or spreadsheet modellingStudents may be tested on their ability to:
+•determine g from distance-time plot for
+projectile motion
+MS 3.10 Interpret logarithmic plots Students may be tested on their ability to:
+•obtain time constant for capacitor
+discharge by interpreting plot of log V
+against time
+80   Visit for the most up-to-date specification,  resources, support and administrationMathematical skills Exemplification of mathematical skill in the
+context of A level Physics
+MS 3.11 Use logarithmic plots to test
+exponential and power law
+variationsStudents may be tested on their ability to:
+•use logarithmic plots with decay law of
+radioactivity / charging and discharging
+of a capacitor
+MS 3.12 Sketch relationships which are
+modelled by y =  k/x, y =  kx2,
+y =  k/x2, y=  kx, y =sin x,
+y =cos x, y  =   e± x, and
+y  =  sin2x, y  =  cos2x   as applied
+to physical relationshipsStudents may be tested on their ability to:
+•sketch relationships between pressure
+and volume for an ideal gas
+6.5 Geometry and trigonometry
+Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 4.1 Use angles in regular 2D and 3D
+structuresStudents may be tested on their ability to:
+• interpret force diagrams to solve problems
+MS 4.2 Visualise and represent 2D and
+3D forms including two-
+dimensional representations of 3D
+objectsStudents may be tested on their ability to:
+• draw force diagrams to solve mechanics
+problems
+MS 4.3 Calculate areas of triangles,
+circumferences and areas of
+circles, surface areas and volumes
+of rectangular blocks, cylinders
+and spheresStudents may be tested on their ability to:
+• calculate the area of the cross–section to
+work out the resistance of a conductor given
+its length and resistivity
+MS 4.4 Use Pythagoras’ theorem, and the
+angle sum of a triangleStudents may be tested on their ability to:
+• calculate the magnitude of a resultant vector,
+resolving forces into components to solve
+problems
+MS 4.5 Use sin, cos and tan in physical
+problemsStudents may be tested on their ability to:
+• resolve forces into components
+MS 4.6 Use of small angle approximations
+including sin θ ≈ θ, tan θ ≈ θ,
+cos θ ≈1 for small θ where
+appropriateStudents may be tested on their ability to:
+• calculate fringe separations in interference
+patternsAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   81Mathematical skills Exemplification of mathematical skill in the
+context of A-level Physics
+MS 4.7 Understand the relationship
+between degrees and radians and
+translate from one to the otherStudents may be tested on their ability to:
+• convert angle in degrees to angle in radians
+82   Visit for the most up-to-date specification,  resources, support and administration7 AS practical assessment
+Practical work is at the heart of physics, so we have placed it at the heart of this specification.
+Assessment of practical skills in this AS specification will be by written exams only.
+The practical endorsement does not apply to the AS specification. A rich diet of practical work is
+essential to develop students' manipulative skills and understanding of the processes of scientific
+investigation. It also contributes to teaching and learning of the concepts within this specification.
+Questions in the papers have been written in the expectation that students have carried out at least
+the six required practical activities in Section 7.2.
+15% of the marks in the papers will relate to practical work.
+7.1 Use of apparatus and techniques
+All students taking an A-level Physics qualification are expected to have carried out the required
+practical activities in Section 7.2. These develop skills in the use of many of the following
+apparatus and techniques. This list is a compulsory element of the full A-level course. It is
+reproduced here for reference and to aid co-teaching the AS and A-level specifications.
+apparatus and techniques
+ATa use appropriate analogue apparatus to record a range of measurements (to include
+length/distance, temperature, pressure, force, angles, volume) and to interpolate
+between scale markings
+ATb use appropriate digital instruments, including electrical multimeters, to obtain a range
+of measurements (to include time, current, voltage, resistance, mass)
+ATc use methods to increase accuracy of measurements, such as timing over multiple
+oscillations, or use of fiducial marker, set square or plumb line
+ATd use stopwatch or light gates for timing
+ATe use calipers and micrometers for small distances, using digital or vernier scales
+ATf correctly construct circuits from circuit diagrams using DC power supplies, cells, and
+a range of circuit components, including those where polarity is important
+ATg design, construct and check circuits using DC power supplies, cells, and a range of
+circuit components
+ATh use signal generator and oscilloscope, including volts/division and time-base
+ATi generate and measure waves, using microphone and loudspeaker, or ripple tank, or
+vibration transducer, or microwave / radio wave sourceAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   83apparatus and techniques
+ATj use laser or light source to investigate characteristics of light, including interference
+and diffraction
+ATk use ICT such as computer modelling, or data logger with a variety of sensors to
+collect data, or use of software to process data
+ATl use ionising radiation, including detectors
+7.2 Required practical activities
+The following practicals must be carried out by all students taking this course. Written papers will
+assess knowledge and understanding of these, and the skills exemplified within each practical.
+Required activity Apparatus and technique
+reference
+1 Investigation into the variation of the frequency of stationary
+waves on a string with length, tension and mass per unit length of
+the string.a, b, c, i
+2 Investigation of interference effects to include the Young’s slit
+experiment and interference by a diffraction grating.a, j
+3 Determination of g by a free-fall method. a, c, d, k
+4 Determination of the Young modulus by a simple method. a, c, e
+5 Determination of resistivity of a wire using a micrometer,
+ammeter and voltmeter.a, b, e, f
+6 Investigation of the emf and internal resistance of electric cells
+and batteries by measuring the variation of the terminal pd of the
+cell with current in it.b, f, g
+Teachers are encouraged to vary their approach to these practical activities. Some are more
+suitable for highly structured approaches that develop key techniques. Others allow opportunities
+for students to develop investigative approaches.
+This list is not designed to limit the practical activities carried out by students. A rich practical
+experience for students will include more than the six required practical activities. The explicit
+teaching of practical skills will build students’ competence. Many teachers will also use practical
+approaches to the introduction of content knowledge in the course of their normal teaching.
+7.3 Practical skills to be assessed in written papers
+Overall, at least 15% of the marks for all AS level Physics courses will require the assessment of
+practical skills.
+84   Visit for the most up-to-date specification,  resources, support and administrationIn order to be able to answer these questions, students need to have been taught, and to have
+acquired competence in, the appropriate areas of practical skills as indicated in the table of
+coverage below.
+7.3.1 Independent thinking
+Practical skill
+PS1.1 Solve problems set in practical contexts
+PS1.2 Apply scientific knowledge to practical contexts
+7.3.2 Use and application of scientific  methods and practices
+Practical skill
+PS2.1 Comment on experimental design and evaluate scientific methods
+PS2.2 Present data in appropriate ways
+PS2.3 Evaluate results and draw conclusions with reference to measurement
+uncertainties and errors
+PS2.4 Identify variables including those that must be controlled
+7.3.3 Numeracy and the application of mathematical concepts in a
+practical context
+Practical skill
+PS3.1 Plot and interpret graphs
+PS3.2 Process and analyse data using appropriate mathematical skills as exemplified
+in the mathematical appendix for each science
+PS3.3 Consider margins of error, accuracy and precision of data
+7.3.4 Instruments and equipment
+Practical skill
+PS4.1 Know and understand how to use a wide range of experimental and practical
+instruments, equipment and techniques appropriate to the knowledge and
+understanding included in the specificationAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   8586   Visit for the most up-to-date specification,  resources, support and administration8 A-level practical assessment
+Practical work is at the heart of physics, so we have placed it at the heart of this specification.
+Practical assessments have been divided into those that can be assessed in written exams and
+those that can only be directly assessed whilst students are carrying out experiments.
+A-level grades will be based only on marks from written exams.
+A separate endorsement of practical skills will be taken alongside the A-level. This will be
+assessed by teachers and will be based on direct observation of students’ competency in a range
+of skills that are not assessable in written exams.
+8.1 Use of apparatus and techniques
+All students taking an A-level Physics qualification are expected to have had opportunities to use
+the following apparatus and develop and demonstrate these techniques. These apparatus and
+techniques are common to all A-level Physics specifications.
+Carrying out the 12 required practicals in section 7.2 means that students will have experienced
+use of each of these apparatus and techniques. However, teachers are encouraged to develop
+students’ abilities by inclusion of other opportunities for skills development, as exemplified in the
+right hand column of the content section of this specification.
+Apparatus and techniques
+ATa use appropriate analogue apparatus to record a range of measurements (to include
+length/distance, temperature, pressure, force, angles, volume) and to interpolate
+between scale markings
+ATb use appropriate digital instruments, including electrical multimeters, to obtain a range
+of measurements (to include time, current, voltage, resistance, mass)
+ATc use methods to increase accuracy of measurements, such as timing over multiple
+oscillations, or use of fiducial marker, set square or plumb line
+ATd use stopwatch or light gates for timing
+ATe use calipers and micrometers for small distances, using digital or vernier scales
+ATf correctly construct circuits from circuit diagrams using DC power supplies, cells, and
+a range of circuit components, including those where polarity is important
+ATg design, construct and check circuits using DC power supplies, cells, and a range of
+circuit components
+ATh use signal generator and oscilloscope, including volts/division and time-baseAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   87Apparatus and techniques
+ATi generate and measure waves, using microphone and loudspeaker, or ripple tank, or
+vibration transducer, or microwave / radio wave source
+ATj use laser or light source to investigate characteristics of light, including interference
+and diffraction
+ATk use ICT such as computer modelling, or data logger with a variety of sensors to
+collect data, or use of software to process data
+ATl use ionising radiation, including detectors
+8.2 Required practical activities
+The following practicals must be carried out by all students taking this course. Written papers will
+assess knowledge and understanding of these, and the skills exemplified within each practical.
+Required activity Apparatus and technique
+reference
+1 Investigation into the variation of the frequency of stationary
+waves on a string with length, tension and mass per unit length of
+the string.a, b, c, i
+2 Investigation of interference effects to include the Young’s slit
+experiment and interference by a diffraction grating.a, j
+3 Determination of g by a free-fall method a, c, d, k
+4 Determination of the Young modulus by a simple method. a, c, e
+5 Determination of resistivity of a wire using a micrometer,
+ammeter and voltmeter.a, b, e, f
+6 Investigation of the emf and internal resistance of electric cells
+and batteries by measuring the variation of the terminal pd of the
+cell with current in it.b, f, g
+7 Investigation into simple harmonic motion using a mass–spring
+system and a simple pendulum.a, b, c, h, i
+8 Investigation of Boyle’s (constant temperature) law and Charles’s
+(constant pressure) law for a gas.a
+9 Investigation of the charge and discharge of capacitors. Analysis
+techniques should include log-linear plotting leading to a
+determination of the time constant RC.b, f, g, h, k
+88   Visit for the most up-to-date specification,  resources, support and administrationRequired activity Apparatus and technique
+reference
+10 Investigate how the force on a wire varies with flux density,
+current and length of wire using a top pan balance.a, b, f
+11 Investigate, using a search coil and oscilloscope, the effect on
+magnetic flux linkage of varying the angle between a search coil
+and magnetic field direction.a, b, f, h
+12 Investigation of the inverse-square law for gamma radiation.a, b, k, l
+Teachers are encouraged to vary their approach to these practical activities. Some are more
+suitable for highly structured approaches that develop key techniques. Others allow opportunities
+for students to develop investigative approaches.
+This list is not designed to limit the practical activities carried out by students. A rich practical
+experience for students will include more than the 12 required practical activities. The explicit
+teaching of practical skills will build students’ competence. Many teachers will also use practical
+approaches to the introduction of content knowledge in the course of their normal teaching.
+Students’ work in these activities can also contribute towards the endorsement of practical skills.
+8.3 Practical skills to be assessed in written papers
+Overall, at least 15% of the marks for all A-level Physics courses will require the assessment of
+practical skills.
+In order to be able to answer these questions, students need to have been taught, and to have
+acquired competence in, the appropriate areas of practical skills as indicated in the table of
+coverage below.
+8.3.1 Independent thinking
+Practical skill
+PS1.1 Solve problems set in practical contexts
+PS1.2 Apply scientific knowledge to practical contexts
+8.3.2 Use and application of scientific  methods and practices
+Practical skill
+PS2.1 Comment on experimental design and evaluate scientific methods
+PS2.2 Present data in appropriate ways
+PS2.3 Evaluate results and draw conclusions with reference to measurement
+uncertainties and errorsAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   89Practical skill
+PS2.4 Identify variables including those that must be controlled
+8.3.3 Numeracy and the application of mathematical concepts in a
+practical context
+Practical skill
+PS3.1 Plot and interpret graphs
+PS3.2 Process and analyse data using appropriate mathematical skills as exemplified
+in the mathematical appendix for each science
+PS3.3 Consider margins of error, accuracy and precision of data
+8.3.4 Instruments and equipment
+Practical skill
+PS4.1 Know and understand how to use a wide range of experimental and practical
+instruments, equipment and techniques appropriate to the knowledge and
+understanding included in the specification
+8.4 Practical skills to be assessed via endorsement
+8.4.1 Cross-board statement on practical endorsement
+The assessment of practical skills is a compulsory requirement of the course of study for A-level
+qualifications in biology, chemistry and physics. It will appear on all students’ certificates as a
+separately reported result, alongside the overall grade for the qualification. The arrangements for
+the assessment of practical skills will be common to all awarding organisations. These
+arrangements will include:
+• A minimum of 12 practical activities to be carried out by each student which, together, meet
+the requirements of Appendices 5b (Practical skills identified for direct assessment and
+developed through teaching and learning) and 5c (Use of apparatus and techniques) from
+the prescribed subject content, published by the Department for Education (DfE). The
+required practical activities will be defined by each awarding organisation.
+• Teachers will assess students against Common Practical Assessment Criteria (CPAC) issued
+jointly by the awarding organisations. The CPAC (see below) are based on the requirements
+of Appendices 5b and 5c of the subject content requirements published by the DfE, and
+define the minimum standard required for the achievement of a pass.
+• Each student will keep an appropriate record of their practical work, including their assessed
+practical activities.
+• Students who demonstrate the required standard across all the requirements of the CPAC
+will receive a ‘pass’ grade.
+90   Visit for the most up-to-date specification,  resources, support and administration• There will be no separate assessment of practical skills for AS qualifications.
+• Students will answer questions in the AS and A-level exam papers that assess the
+requirements of Appendix 5a (Practical skills identified for indirect assessment and
+developed through teaching and learning) from the prescribed subject content, published by
+the DfE. These questions may draw on, or range beyond, the practical activities included in
+the specification.
+8.4.2 Criteria for the assessment of practical competency in A-level
+Biology, Chemistry and Physics
+Competency Practical mastery
+In order to be awarded a Pass a student must, by
+the end of the practical science assessment,
+consistently and routinely meet the criteria in
+respect of each competency listed below. A
+student may demonstrate the competencies in
+any practical activity undertaken as part of that
+assessment throughout the course of study.
+Students may undertake practical activities in
+groups. However, the evidence generated by
+each student must demonstrate that he or she
+independently meets the criteria outlined below in
+respect of each competency. Such evidence
+• (a) will comprise both the student's
+performance during each practical activity
+and his or her contemporaneous record of
+the work that he or she has undertaken
+during that activity, and
+• (b) must include evidence of independent
+application of investigative approaches and
+methods to practical work.
+1. Follows written procedures (a) Correctly follows written instructions to carry
+out experimental techniques or procedures.AQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   91Competency Practical mastery
+2. Applies investigative approaches and
+methods when using instruments and
+equipment(a) Correctly uses appropriate instrumentation,
+apparatus and materials (including ICT) to carry
+out investigative activities, experimental
+techniques and procedures with minimal
+assistance or prompting.
+(b) Carries out techniques or procedures
+methodically, in sequence and in combination,
+identifying practical issues and making
+adjustments where necessary.
+(c) Identifies and controls significant quantitative
+variables where applicable, and plans
+approaches to take account of variables that
+cannot readily be controlled.
+(d) Selects appropriate equipment and
+measurement strategies in order to ensure
+suitably accurate results.
+3. Safely uses a range of practical equipment
+and materials(a) Identifies hazards and assesses risks
+associated with those hazards, making safety
+adjustments as necessary, when carrying out
+experimental techniques and procedures in the
+lab or field.
+(b) Uses appropriate safety equipment and
+approaches to minimise risks with minimal
+prompting.
+4. Makes and records observations (a) Makes accurate observations relevant to the
+experimental or investigative procedure.
+(b) Obtains accurate, precise and sufficient data
+for experimental and investigative procedures
+and records this methodically using appropriate
+units and conventions.
+5. Researches, references and reports (a) Uses appropriate software and/or tools to
+process data, carry out research and report
+findings.
+(b) Cites sources of information demonstrating
+that research has taken place, supporting
+planning and conclusions.
+92   Visit for the most up-to-date specification,  resources, support and administrationAQA AS and A-level Physics . AS and A-level exams June 2016 onwards. Version 1.3 1 June 2017
+Visit for the most up-to-date specification,  resources, support and administration   93Get help and support
+Visit our website for information, guidance, support and resources at 
+You can talk directly to the Physics subject team:
+E: alevelscience@aqa.org.uk
+T: 01483 477 756
+aqa.org.uk
+Copyright © 2022 AQA and its licensors. All rights reserved.
+AQA retains the copyright on all its publications, including the specifications. However, schools and colleges registered with AQA are
+permitted to copy material from this specification for their own internal use.
+AQA Education (AQA) is a registered charity (number 1073334) and a company limited by guarantee registered in England and Wales
+(company number 3644723). Our registered address is AQA, Devas Street, Manchester M15 6EX.
