@@ -7,42 +7,45 @@
     "yearGroup": "YEAR_10",
     "term": "",
     "duration": "",
-    "date": "",
     "summary": "",
+    "link_to_specification": "",
+    "link_to_resources": null,
+    "learning_objectives": [
+        {
+            "description": "",
+            "successCriteria": []
+        }
+    ],
+    "lesson_structure": {
+        "starter": {
+            "topic": "",
+            "sub_topic": null,
+            "duration": ""
+        },
+        "main_activities": [
+            {
+                "duration": "",
+                "topic": "",
+                "sub_topic": null,
+                "activity": "",
+                "activity_type": "explanation",
+                "materials": null
+            }
+        ],
+        "plenary": {
+            "duration": "",
+            "topic": "",
+            "sub_topic": null,
+            "activity": "",
+            "activity_type": "plenary",
+            "materials": null
+        }
+    },
+    "teacher_notes": null,
     "contentItems": [
         "The different types of energy store.",
         "The different ways energy can be transferred.",
         "The concept of 'open' and 'closed' systems.",
         "What the term 'work done' means."
-    ],
-    "learningObjectives": [
-        ""
-    ],
-    "materials": [
-        ""
-    ],
-    "lessonStructure": {
-        "starter": {
-            "duration": "",
-            "activity": ""
-        },
-        "mainActivities": [
-            {
-                "duration": "",
-                "activity": ""
-            }
-        ],
-        "plenary": {
-            "duration": "",
-            "activity": ""
-        }
-    },
-    "assessmentMethods": [
-        ""
-    ],
-    "homework": {
-        "task": "",
-        "dueDate": ""
-    },
-    "teacherNotes": ""
+    ]
 }

@@ -99,3 +99,5 @@ if __name__ == "__main__":
                                     print(f"Lesson code is empty - no lesson")
                             else:
                                 print(f"Lesson plan file already exists: {lesson_plan_file}")   
+
+

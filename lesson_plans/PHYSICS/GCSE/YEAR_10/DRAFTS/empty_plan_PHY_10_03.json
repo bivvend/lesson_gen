@@ -7,40 +7,43 @@
     "yearGroup": "YEAR_10",
     "term": "",
     "duration": "",
-    "date": "",
     "summary": "",
-    "contentItems": [
-        "What 'kinetic energy' is.",
-        "How to calculate kinetic energy."
+    "link_to_specification": "",
+    "link_to_resources": null,
+    "learning_objectives": [
+        {
+            "description": "",
+            "successCriteria": []
+        }
     ],
-    "learningObjectives": [
-        ""
-    ],
-    "materials": [
-        ""
-    ],
-    "lessonStructure": {
+    "lesson_structure": {
         "starter": {
-            "duration": "",
-            "activity": ""
+            "topic": "",
+            "sub_topic": null,
+            "duration": ""
         },
-        "mainActivities": [
+        "main_activities": [
             {
                 "duration": "",
-                "activity": ""
+                "topic": "",
+                "sub_topic": null,
+                "activity": "",
+                "activity_type": "explanation",
+                "materials": null
             }
         ],
         "plenary": {
             "duration": "",
-            "activity": ""
+            "topic": "",
+            "sub_topic": null,
+            "activity": "",
+            "activity_type": "plenary",
+            "materials": null
         }
     },
-    "assessmentMethods": [
-        ""
-    ],
-    "homework": {
-        "task": "",
-        "dueDate": ""
-    },
-    "teacherNotes": ""
+    "teacher_notes": null,
+    "contentItems": [
+        "What 'kinetic energy' is.",
+        "How to calculate kinetic energy."
+    ]
 }
